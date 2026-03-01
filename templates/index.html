@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Talk Therapy | Safe Spaces for Meaningful Conversations</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <style>
+        /* Homepage-specific styles */
+        .hero {
+            padding: var(--space-2xl) 0;
+            text-align: center;
+            background: linear-gradient(135deg, var(--color-cream) 0%, var(--color-sage) 100%);
+            border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+            margin-bottom: var(--space-2xl);
+        }
+        
+        .hero-title {
+            font-size: 3rem;
+            font-weight: var(--font-weight-bold);
+            color: var(--color-dark-gray);
+            margin-bottom: var(--space-md);
+            line-height: 1.2;
+        }
+        
+        .hero-subtitle {
+            font-size: 1.25rem;
+            color: var(--color-text-light);
+            max-width: 600px;
+            margin: 0 auto var(--space-xl);
+            font-weight: var(--font-weight-regular);
+        }
+        
+        .hero-actions {
+            display: flex;
+            gap: var(--space-md);
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .features {
+            margin-bottom: var(--space-2xl);
+        }
+        
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: var(--space-xl);
+        }
+        
+        .feature-card {
+            text-align: center;
+            padding: var(--space-xl);
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: var(--space-md);
+            display: block;
+        }
+        
+        .feature-title {
+            font-size: 1.5rem;
+            margin-bottom: var(--space-sm);
+        }
+        
+        .feature-description {
+            color: var(--color-text-light);
+        }
+        
+        .latest-articles {
+            margin-bottom: var(--space-2xl);
+        }
+        
+        .section-header {
+            text-align: center;
+            margin-bottom: var(--space-xl);
+        }
+        
+        .section-title {
+            font-size: 2.5rem;
+            margin-bottom: var(--space-sm);
+        }
+        
+        .section-subtitle {
+            color: var(--color-text-light);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .article-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: var(--space-lg);
+        }
+        
+        .article-card {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .article-image {
+            width: 100%;
+            height: 200px;
+            background-color: var(--color-warm-gray);
+            border-radius: var(--radius-md);
+            margin-bottom: var(--space-md);
+            overflow: hidden;
+        }
+        
+        .article-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform var(--transition-slow);
+        }
+        
+        .article-card:hover .article-image img {
+            transform: scale(1.05);
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: var(--space-md);
+            color: var(--color-text-light);
+            font-size: 0.9rem;
+            margin-bottom: var(--space-sm);
+        }
+        
+        .article-category {
+            background-color: var(--color-peach);
+            padding: 2px 8px;
+            border-radius: var(--radius-full);
+            font-size: 0.8rem;
+            font-weight: var(--font-weight-medium);
+        }
+        
+        .article-excerpt {
+            color: var(--color-text-light);
+            margin-bottom: var(--space-md);
+            flex-grow: 1;
+        }
+        
+        .newsletter-section {
+            background-color: var(--color-sage);
+            padding: var(--space-2xl) 0;
+            border-radius: var(--radius-lg);
+            margin-bottom: var(--space-2xl);
+        }
+        
+        .newsletter-content {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        
+        .newsletter-form {
+            display: flex;
+            gap: var(--space-sm);
+            margin-top: var(--space-lg);
+        }
+        
+        .newsletter-input {
+            flex-grow: 1;
+            padding: var(--space-sm) var(--space-md);
+            border: 2px solid var(--color-warm-gray);
+            border-radius: var(--radius-full);
+            font-family: var(--font-family);
+            font-size: 1rem;
+            background-color: white;
+            transition: border-color var(--transition-fast);
+        }
+        
+        .newsletter-input:focus {
+            outline: none;
+            border-color: var(--color-peach);
+        }
+        
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+            
+            .hero-actions {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .newsletter-form {
+                flex-direction: column;
+            }
+            
+            .article-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .hero-title {
+                font-size: 2rem;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .feature-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="logo">
+                <span class="logo-icon">💬</span>
+                <span class="logo-text">The Talk Therapy</span>
+            </a>
+            <button class="menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <div class="nav-menu">
+                <a href="/" class="nav-link active">Home</a>
+                <a href="/articles" class="nav-link">Articles</a>
+                <a href="/resources" class="nav-link">Resources</a>
+                <a href="/about" class="nav-link">About</a>
+                <a href="/contact" class="nav-link">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1 class="hero-title">Safe Spaces for Meaningful Conversations</h1>
+            <p class="hero-subtitle">Join our community exploring mental health, personal growth, and the art of conversation in a warm, supportive environment.</p>
+            <div class="hero-actions">
+                <a href="/articles" class="btn btn-primary">Read Articles</a>
+                <a href="/about" class="btn btn-secondary">Learn More</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Features -->
+            <section class="features">
+                <div class="feature-grid">
+                    <div class="card feature-card">
+                        <span class="feature-icon">🧠</span>
+                        <h3 class="feature-title">Mental Health Insights</h3>
+                        <p class="feature-description">Evidence-based articles and personal stories about mental wellness, therapy, and self-care practices.</p>
+                    </div>
+                    
+                    <div class="card feature-card">
+                        <span class="feature-icon">💭</span>
+                        <h3 class="feature-title">Conversation Guides</h3>
+                        <p class="feature-description">Practical tips for having difficult conversations, active listening, and building deeper connections.</p>
+                    </div>
+                    
+                    <div class="card feature-card">
+                        <span class="feature-icon">🌱</span>
+                        <h3 class="feature-title">Personal Growth</h3>
+                        <p class="feature-description">Resources for self-discovery, habit formation, and creating meaningful change in your life.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Latest Articles -->
+            <section class="latest-articles">
+                <div class="section-header">
+                    <h2 class="section-title">Latest Articles</h2>
+                    <p class="section-subtitle">Fresh perspectives on mental health and meaningful conversations</p>
+                </div>
+                
+                <div class="article-grid">
+                    <article class="card article-card">
+                        <div class="article-image">
+                            <!-- Placeholder for article image -->
+                            <div style="width: 100%; height: 100%; background: linear-gradient(135deg, var(--color-peach), var(--color-sage));"></div>
+                        </div>
+                        <div class="article-meta">
+                            <span class="article-category">Mental Health</span>
+                            <span>March 15, 2024</span>
+                            <span>8 min read</span>
+                        </div>
+                        <h3 class="card-title">The Art of Active Listening</h3>
+                        <p class="article-excerpt">Learn how to truly hear what others are saying and create deeper connections through intentional listening practices.</p>
+                        <div class="card-footer">
+                            <a href="/articles/active-listening" class="btn btn-secondary">Read More</a>
+                        </div>
+                    </article>
+                    
+                    <article class="card article-card">
+                        <div class="article-image">
+                            <!-- Placeholder for article image -->
+                            <div style="width: 100%; height: 100%; background: linear-gradient(135deg, var(--color-sage), var(--color-warm-gray));"></div>
+                        </div>
+                        <div class="article-meta">
+                            <span class="article-category">Self-Care</span>
+                            <span>March 10, 2024</span>
+                            <span>6 min read</span>
+                        </div>
+                        <h3 class="card-title">Building a Morning Routine for Mental Wellness</h3>
+                        <p class="article-excerpt">Simple, sustainable practices to start your day with intention and create a foundation for emotional balance.</p>
+                        <div class="card-footer">
+                            <a href="/articles/morning-routine" class="btn btn-secondary">Read More</a>
+                        </div>
+                    </article>
+                    
+                    <article class="card article-card">
+                        <div class="article-image">
+                            <!-- Placeholder for article image -->
+                            <div style="width: 100%; height: 100%; background: linear-gradient(135deg, var(--color-warm-gray), var(--color-peach));"></div>
+                        </div>
+                        <div class="article-meta">
+                            <span class="article-category">Relationships</span>
+                            <span>March 5, 2024</span>
+                            <span>10 min read</span>
+                        </div>
+                        <h3 class="card-title">Navigating Difficult Conversations with Loved Ones</h3>
+                        <p class="article-excerpt">A compassionate guide to approaching sensitive topics while maintaining connection and respect.</p>
+                        <div class="card-footer">
+                            <a href="/articles/difficult-conversations" class="btn btn-secondary">Read More</a>
+                        </div>
+                    </article>
+                </div>
+                
+                <div class="text-center mt-xl">
+                    <a href="/articles" class="btn btn-primary">View All Articles</a>
+                </div>
+            </section>
+
+            <!-- Newsletter -->
+            <section class="newsletter-section">
+                <div class="container">
+                    <div class="newsletter-content">
+                        <h2 class="section-title">Stay Connected</h2>
+                        <p class="section-subtitle">Join our newsletter for weekly insights, articles, and conversation starters delivered to your inbox.</p>
+                        
+                        <form class="newsletter-form">
+                            <input type="email" class="newsletter-input" placeholder="Your email address" required>
+                            <button type="submit" class="btn btn-primary">Subscribe</button>
+                        </form>
+                        
+                        <p class="footer-text mt-sm">We respect your privacy. Unsubscribe at any time.</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-heading">The Talk Therapy</h3>
+                    <p class="footer-text">Creating safe spaces for meaningful conversations about mental health and personal growth.</p>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-subheading">Quick Links</h4>
+                    <a href="/articles" class="footer-link">Articles</a>
+                    <a href="/resources" class="footer-link">Resources</a>
+                    <a href="/about" class="footer-link">About</a>
+                    <a href="/contact" class="footer-link">Contact</a>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-subheading">Connect</h4>
+                    <a href="#" class="footer-link">Newsletter</a>
+                    <a href="#" class="footer-link">Twitter</a>
+                    <a href="#" class="footer-link">Instagram</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p class="footer-copyright">© 2024 The Talk Therapy. All rights reserved.</p>
+                <div class="footer-legal">
+                    <a href="/privacy" class="footer-legal-link">Privacy Policy</a>
+                    <a href="/terms" class="footer-legal-link">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/main.js"></script>
+</body>
+</html>

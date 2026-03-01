@@ -1,0 +1,51 @@
+{
+  "name": "the-talk-therapy-website",
+  "version": "1.0.0",
+  "description": "A warm, inviting website for mental health content and meaningful conversations",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "lint:css": "stylelint \"**/*.css\"",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,md}\"",
+    "test": "jest",
+    "test:accessibility": "axe http://localhost:5173",
+    "audit": "npm run lint && npm run lint:css && npm run test",
+    "deploy:preview": "vercel --prod",
+    "deploy:production": "vercel --prod"
+  },
+  "keywords": [
+    "mental-health",
+    "therapy",
+    "conversation",
+    "wellness",
+    "blog"
+  ],
+  "author": "The Talk Therapy Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0",
+    "stylelint": "^15.0.0",
+    "stylelint-config-standard": "^34.0.0",
+    "jest": "^29.0.0",
+    "@testing-library/jest-dom": "^6.0.0",
+    "@testing-library/user-event": "^14.0.0",
+    "axe-core": "^4.7.0"
+  },
+  "dependencies": {
+    "lazysizes": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ]
+}

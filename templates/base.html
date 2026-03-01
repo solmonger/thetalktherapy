@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Talk Therapy | {% block title %}{% endblock %}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    {% block head %}{% endblock %}
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="logo">
+                <span class="logo-icon">💬</span>
+                <span class="logo-text">The Talk Therapy</span>
+            </a>
+            <button class="menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <div class="nav-menu">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/articles" class="nav-link">Articles</a>
+                <a href="/resources" class="nav-link">Resources</a>
+                <a href="/about" class="nav-link">About</a>
+                <a href="/contact" class="nav-link">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        {% block content %}{% endblock %}
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-heading">The Talk Therapy</h3>
+                    <p class="footer-text">Creating safe spaces for meaningful conversations about mental health and personal growth.</p>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-subheading">Quick Links</h4>
+                    <a href="/articles" class="footer-link">Articles</a>
+                    <a href="/resources" class="footer-link">Resources</a>
+                    <a href="/about" class="footer-link">About</a>
+                    <a href="/contact" class="footer-link">Contact</a>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-subheading">Connect</h4>
+                    <a href="#" class="footer-link">Newsletter</a>
+                    <a href="#" class="footer-link">Twitter</a>
+                    <a href="#" class="footer-link">Instagram</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p class="footer-copyright">© 2024 The Talk Therapy. All rights reserved.</p>
+                <div class="footer-legal">
+                    <a href="/privacy" class="footer-legal-link">Privacy Policy</a>
+                    <a href="/terms" class="footer-legal-link">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/main.js"></script>
+    {% block scripts %}{% endblock %}
+</body>
+</html>

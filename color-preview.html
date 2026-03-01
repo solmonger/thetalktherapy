@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Talk Therapy - Color Palette Preview</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: #FFF8F0; /* Cream */
+            color: #333;
+            line-height: 1.6;
+            padding: 24px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 48px;
+            padding: 32px;
+            background: linear-gradient(135deg, #FFD8C8, #C8D8C8);
+            border-radius: 16px;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+        }
+        
+        .subtitle {
+            font-size: 1.25rem;
+            color: #666;
+            font-weight: 300;
+        }
+        
+        .palette-section {
+            margin-bottom: 48px;
+        }
+        
+        h2 {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 24px;
+            color: #333;
+        }
+        
+        .color-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 24px;
+            margin-bottom: 32px;
+        }
+        
+        .color-card {
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            transition: transform 0.2s ease;
+        }
+        
+        .color-card:hover {
+            transform: translateY(-4px);
+        }
+        
+        .color-swatch {
+            height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .color-info {
+            padding: 16px;
+            background: white;
+        }
+        
+        .color-name {
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+        
+        .color-hex {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.875rem;
+            color: #666;
+        }
+        
+        .usage-section {
+            background: white;
+            padding: 32px;
+            border-radius: 16px;
+            margin-bottom: 48px;
+        }
+        
+        .usage-item {
+            margin-bottom: 24px;
+        }
+        
+        .usage-title {
+            font-weight: 600;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .usage-desc {
+            color: #666;
+            padding-left: 24px;
+        }
+        
+        .concept-section {
+            background: linear-gradient(135deg, #E8E0D8, #FFF8F0);
+            padding: 32px;
+            border-radius: 16px;
+        }
+        
+        .concept-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 24px;
+            margin-top: 24px;
+        }
+        
+        .concept-card {
+            background: white;
+            padding: 24px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        
+        .concept-title {
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #D8A8A8; /* Dusty Rose */
+        }
+        
+        .concept-desc {
+            color: #666;
+            font-size: 0.9375rem;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 48px;
+            padding: 24px;
+            color: #888;
+            font-size: 0.875rem;
+            border-top: 1px solid #E8E0D8;
+        }
+        
+        @media (max-width: 600px) {
+            body {
+                padding: 16px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .color-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The Talk Therapy</h1>
+            <p class="subtitle">Brand Color Palette & Design Concepts</p>
+        </header>
+        
+        <section class="palette-section">
+            <h2>Primary Color Palette</h2>
+            <div class="color-grid">
+                <div class="color-card">
+                    <div class="color-swatch" style="background-color: #FFD8C8;">
+                        <span style="color: #333; font-weight: 600; background: rgba(255,255,255,0.8); padding: 4px 8px; border-radius: 4px;">Soft Peach</span>
+                    </div>
+                    <div class="color-info">
+                        <div class="color-name">Soft Peach</div>
+                        <div class="color-hex">#FFD8C8</div>
+                    </div>
+                </div>
+                
+                <div class="color-card">
+                    <div class="color-swatch" style="background-color: #C8D8C8;">
+                        <span style="color: #333; font-weight: 600; background: rgba(255,255,255,0.8); padding: 4px 8px; border-radius: 4px;">Soft Sage</span>
+                    </div>
+                    <div class="color-info">
+                        <div class="color-name">Soft Sage</div>
+                        <div class="color-hex">#C8D8C8</div>
+                    </div>
+                </div>
+                
+                <div class="color-card">
+                    <div class="color-swatch" style="background-color: #FFF8F0;">
+                        <span style="color: #333; font-weight: 600; background: rgba(255,255,255,0.8); padding: 4px 8px; border-radius: 4px;">Cream</span>
+                    </div>
+                    <div class="color-info">
+                        <div class="color-name">Cream</div>
+                        <div class="color-hex">#FFF8F0</div>
+                    </div>
+                </div>
+                
+                <div class="color-card">
+                    <div class="color-swatch" style="background-color: #E8E0D8;">
+                        <span style="color: #333; font-weight: 600; background: rgba(255,255,255,0.8); padding: 4px 8px; border-radius: 4px;">Warm Gray</span>
+                    </div>
+                    <div class="color-info">
+                        <div class="color-name">Warm Gray</div>
+                        <div class="color-hex">#E8E0D8</div>
+                    </div>
+                </div>
+            </div>
+            
+            <h2>Accent Colors</h2>
+            <div class="color-grid">
+                <div class="color-card">
+                    <div class="color-swatch" style="background-color: #D8A8A8;">
+                        <span style="color: #333; font-weight: 600; background: rgba(255,255,255,0.8); padding: 4px 8px; border-radius: 4px;">Dusty Rose</span>
+                    </div>
+                    <div class="color-info">
+                        <div class="color-name">Dusty Rose</div>
+                        <div class="color-hex">#D8A8A8</div>
+                    </div>
+                </div>
+                
+                <div class="color-card">
+                    <div class="color-swatch" style="background-color: #88B8B8;">
+                        <span style="color: white; font-weight: 600; background: rgba(0,0,0,0.2); padding: 4px 8px; border-radius: 4px;">Muted Teal</span>
+                    </div>
+                    <div class="color-info">
+                        <div class="color-name">Muted Teal</div>
+                        <div class="color-hex">#88B8B8</div>
+                    </div>
+                </div>
+                
+                <div class="color-card">
+                    <div class="color-swatch" style="background-color: #B8A088;">
+                        <span style="color: white; font-weight: 600; background: rgba(0,0,0,0.2); padding: 4px 8px; border-radius: 4px;">Soft Brown</span>
+                    </div>
+                    <div class="color-info">
+                        <div class="color-name">Soft Brown</div>
+                        <div class="color-hex">#B8A088</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="usage-section">
+            <h2>Color Usage Guidelines</h2>
+            
+            <div class="usage-item">
+                <div class="usage-title">
+                    <div style="width: 20px; height: 20px; background-color: #FFD8C8; border-radius: 4px;"></div>
+                    <span>Soft Peach (#FFD8C8)</span>
+                </div>
+                <p class="usage-desc">Primary CTAs, highlights, important buttons. Use to draw attention to key actions.</p>
+            </div>
+            
+            <div class="usage-item">
+                <div class="usage-title">
+                    <div style="width: 20px; height: 20px; background-color: #C8D8C8; border-radius: 4px;"></div>
+                    <span>Soft Sage (#C8D8C8)</span>
+                </div>
+                <p class="usage-desc">Backgrounds, section dividers, cards. Creates calming separation between content areas.</p>
+            </div>
+            
+            <div class="usage-item">
+                <div class="usage-title">
+                    <div style="width: 20px; height: 20px; background-color: #FFF8F0; border-radius: 4px;"></div>
+                    <span>Cream (#FFF8F0)</span>
+                </div>
+                <p class="usage-desc">Main page background. Provides warm, inviting base for all content.</p>
+            </div>
+            
+            <div class="usage-item">
+                <div class="usage-title">
+                    <div style="width: 20px; height: 20px; background-color: #E8E0D8; border-radius: 4px;"></div>
+                    <span>Warm Gray (#E8E0D8)</span>
+                </div>
+                <p class="usage-desc">Borders, subtle elements, disabled states. Adds depth without harsh contrast.</p>
+            </div>
+        </section>
+        
+        <section class="concept-section">
+            <h2>Website Design Concepts</h2>
+            <p style="color: #666; margin-bottom: 24px;">Three distinct approaches for The Talk Therapy website:</p>
+            
+            <div class="concept-grid">
+                <div class="concept-card">
+                    <h3 class="concept-title">Concept A: Calm Sanctuary</h3>
+                    <p class="concept-desc">Full-width hero with soft gradient, card-based content sections, rounded corners throughout, subtle animations. Focus on creating a peaceful, contained space.</p>
+                </div>
+                
+                <div class="concept-card">
+                    <h3 class="concept-title">Concept B: Conversation Flow</h3>
+                    <p class="concept-desc">Asymmetrical layout, organic flowing shapes, dialogue-inspired elements. Mimics the natural flow of therapeutic conversation.</p>
+                </div>
+                
+                <div class="concept-card">
+                    <h3 class="concept-title">Concept C: Minimal Comfort</h3>
+                    <p class="concept-desc">Ultra-clean layout, maximum whitespace, focus on typography, subtle texture backgrounds. Lets the content breathe and speak for itself.</p>
+                </div>
+            </div>
+        </section>
+        
+        <footer>
+            <p>The Talk Therapy - Brand Design System</p>
+            <p>Created by Design & Social Media Agent | 2026-02-28</p>
+        </footer>
+    </div>
+</body>
+</html>
