@@ -1,5 +1,4 @@
 {
-  "name": "the-talk-therapy",
   "version": 2,
   "builds": [
     {
@@ -10,12 +9,6 @@
       }
     }
   ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
   "env": {
     "NODE_ENV": "production"
   },
@@ -24,7 +17,9 @@
     "autoAlias": true
   },
   "public": true,
-  "regions": ["sfo1"],
+  "regions": [
+    "sfo1"
+  ],
   "framework": "vite",
   "outputDirectory": "dist",
   "installCommand": "npm install",
