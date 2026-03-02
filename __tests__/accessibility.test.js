@@ -26,10 +26,10 @@ describe('Accessibility Tests', () => {
 
   test('All interactive elements have accessible labels', () => {
     const interactiveElements = document.querySelectorAll(
-      'button, [role="button"], a[href], input, select, textarea'
+      'button, [role="button"], a[href], input, select, textarea',
     );
     
-    interactiveElements.forEach(element => {
+    interactiveElements.forEach((element) => {
       // Check for either aria-label, aria-labelledby, or visible text
       const hasAriaLabel = element.hasAttribute('aria-label');
       const hasAriaLabelledBy = element.hasAttribute('aria-labelledby');
@@ -49,14 +49,14 @@ describe('Accessibility Tests', () => {
 
   test('Images have alt attributes', () => {
     const images = document.querySelectorAll('img');
-    images.forEach(img => {
+    images.forEach((img) => {
       expect(img.hasAttribute('alt')).toBe(true);
     });
   });
 
   test('Buttons have minimum touch target size', () => {
     const buttons = document.querySelectorAll('button, .btn');
-    buttons.forEach(button => {
+    buttons.forEach((button) => {
       // Check if button has minimum dimensions or CSS class for touch targets
       const style = window.getComputedStyle(button);
       const minHeight = parseInt(style.minHeight) || parseInt(style.height);
@@ -95,7 +95,7 @@ describe('Performance Tests', () => {
       '--color-warm-gray',
     ];
     
-    brandColors.forEach(colorVar => {
+    brandColors.forEach((colorVar) => {
       const value = rootStyles.getPropertyValue(colorVar);
       expect(value).not.toBe('');
     });
