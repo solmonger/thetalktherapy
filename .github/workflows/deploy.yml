@@ -44,10 +44,9 @@ jobs:
           path: dist/
 
       - name: Deploy to Vercel
-        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') && env.VERCEL_TOKEN \!= ''
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        continue-on-error: true
         uses: amondnet/vercel-action@v25
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
@@ -55,7 +54,8 @@ jobs:
           vercel-args: "--prod"
 
       - name: Deploy to GitHub Pages
-        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        continue-on-error: true
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
