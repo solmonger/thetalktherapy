@@ -41,7 +41,6 @@ export default defineConfig({
   plugins: [],
   css: {
     devSourcemap: true,
-    postcss: './postcss.config.mjs',
   },
   optimizeDeps: {
     include: ['lazysizes'],
