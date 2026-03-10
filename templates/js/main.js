@@ -1,190 +1,133 @@
-// The Talk Therapy - Main JavaScript
-// Interactive elements and functionality
+// The Talk Therapy - Minimal Editorial JS
+// Three features: newsletter form, category filters, nav active state
 
-document.addEventListener('DOMContentLoaded', function() {
-  // Mobile menu toggle
-  const menuToggle = document.querySelector('.menu-toggle');
-  const navMenu = document.querySelector('.nav-menu');
-    
-  if (menuToggle && navMenu) {
-    menuToggle.addEventListener('click', function() {
-      navMenu.classList.toggle('active');
-      menuToggle.classList.toggle('active');
-    });
-        
-    // Close menu when clicking outside
-    document.addEventListener('click', function(event) {
-      if (!menuToggle.contains(event.target) && !navMenu.contains(event.target)) {
-        navMenu.classList.remove('active');
-        menuToggle.classList.remove('active');
-      }
-    });
-        
-    // Close menu when clicking a link
-    const navLinks = document.querySelectorAll('.nav-link');
-    navLinks.forEach((link) => {
-      link.addEventListener('click', function() {
-        navMenu.classList.remove('active');
-        menuToggle.classList.remove('active');
-      });
-    });
-  }
-    
-  // Smooth scroll for anchor links
-  document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
-    anchor.addEventListener('click', function(e) {
+// --- Toast helper ---
+
+function showToast(message, type) {
+  const toast = document.createElement('div');
+  toast.className = `toast toast-${type}`;
+  toast.textContent = message;
+  document.body.appendChild(toast);
+
+  setTimeout(() => {
+    toast.style.animation = 'toast-out 0.3s ease forwards';
+    setTimeout(() => toast.remove(), 300);
+  }, 3000);
+}
+
+// --- Utility helpers ---
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+function slugifyCategory(cat) {
+  return cat.toLowerCase().replace(/\s+/g, '-');
+}
+
+function estimateReadTime(text) {
+  return Math.max(1, Math.ceil(text.split(/\s+/).length / 200));
+}
+
+// --- Feature 1: Newsletter form handler ---
+
+document.addEventListener('DOMContentLoaded', () => {
+  const form = document.querySelector('.newsletter-form');
+  if (form) {
+    form.addEventListener('submit', (e) => {
       e.preventDefault();
-      const targetId = this.getAttribute('href');
-      if (targetId === '#') return;
-            
-      const targetElement = document.querySelector(targetId);
-      if (targetElement) {
-        window.scrollTo({
-          top: targetElement.offsetTop - 80,
-          behavior: 'smooth',
-        });
+      const input = form.querySelector('.newsletter-input');
+      const btn = form.querySelector('.btn-subscribe');
+      const email = input?.value.trim();
+
+      if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        showToast('Please enter a valid email address', 'error');
+        return;
       }
-    });
-  });
-    
-  // Card hover effects enhancement
-  const cards = document.querySelectorAll('.card');
-  cards.forEach((card) => {
-    card.addEventListener('mouseenter', function() {
-      this.style.zIndex = '10';
-    });
-        
-    card.addEventListener('mouseleave', function() {
-      this.style.zIndex = '';
-    });
-  });
-    
-  // Newsletter form handling (example)
-  const newsletterForm = document.querySelector('.newsletter-form');
-  if (newsletterForm) {
-    newsletterForm.addEventListener('submit', function(e) {
-      e.preventDefault();
-      const emailInput = this.querySelector('input[type="email"]');
-      const submitBtn = this.querySelector('button[type="submit"]');
-            
-      if (emailInput && submitBtn) {
-        const email = emailInput.value.trim();
-                
-        if (!email) {
-          showToast('Please enter your email address', 'error');
-          return;
-        }
-                
-        if (!isValidEmail(email)) {
-          showToast('Please enter a valid email address', 'error');
-          return;
-        }
-                
-        // Simulate API call
-        submitBtn.disabled = true;
-        submitBtn.textContent = 'Subscribing...';
-                
-        setTimeout(() => {
-          showToast('Thank you for subscribing!', 'success');
-          emailInput.value = '';
-          submitBtn.disabled = false;
-          submitBtn.textContent = 'Subscribe';
-        }, 1500);
-      }
-    });
-  }
-    
-  // Toast notification function
-  function showToast(message, type = 'info') {
-    const toast = document.createElement('div');
-    toast.className = `toast toast-${type}`;
-    toast.textContent = message;
-    toast.style.cssText = `
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            padding: 12px 24px;
-            background: ${type === 'success' ? '#C8D8C8' : '#FFD8C8'};
-            color: #333;
-            border-radius: 8px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-            z-index: 10000;
-            animation: slideIn 0.3s ease;
-        `;
-        
-    document.body.appendChild(toast);
-        
-    setTimeout(() => {
-      toast.style.animation = 'slideOut 0.3s ease';
+
+      btn.disabled = true;
+      btn.textContent = 'Subscribing...';
+
+      // Placeholder — replace with real endpoint when newsletter is wired
       setTimeout(() => {
-        if (toast.parentNode) {
-          toast.parentNode.removeChild(toast);
-        }
-      }, 300);
-    }, 3000);
+        showToast('Thank you for subscribing!', 'success');
+        input.value = '';
+        btn.disabled = false;
+        btn.textContent = 'Subscribe';
+      }, 1200);
+    });
   }
-    
-  // Add CSS for toast animations
-  const style = document.createElement('style');
-  style.textContent = `
-        @keyframes slideIn {
-            from {
-                transform: translateX(100%);
-                opacity: 0;
+
+  // --- Feature 2: Category filters (archive page) ---
+  // Article content comes from our own blog-publish.py (trusted source).
+  // All dynamic values are escaped via escapeHtml() before insertion.
+
+  const archive = document.getElementById('article-archive');
+  const pills = document.querySelectorAll('.category-pill');
+
+  if (archive && pills.length > 0) {
+    fetch('/articles/index.json')
+      .then((res) => res.json())
+      .then((articles) => {
+        window._articles = articles;
+        renderArticles(articles);
+
+        pills.forEach((pill) => {
+          pill.addEventListener('click', () => {
+            pills.forEach((p) => p.classList.remove('active'));
+            pill.classList.add('active');
+
+            const category = pill.dataset.category;
+            if (category === 'all') {
+              renderArticles(window._articles);
+            } else {
+              renderArticles(
+                window._articles.filter(
+                  (a) => slugifyCategory(a.category) === category
+                )
+              );
             }
-            to {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
-        
-        @keyframes slideOut {
-            from {
-                transform: translateX(0);
-                opacity: 1;
-            }
-            to {
-                transform: translateX(100%);
-                opacity: 0;
-            }
-        }
-    `;
-  document.head.appendChild(style);
-    
-  // Email validation helper
-  function isValidEmail(email) {
-    const re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return re.test(email);
-  }
-    
-  // Lazy loading for images
-  if ('IntersectionObserver' in window) {
-    const imageObserver = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          const img = entry.target;
-          if (img.dataset.src) {
-            img.src = img.dataset.src;
-            img.removeAttribute('data-src');
-          }
-          imageObserver.unobserve(img);
-        }
+          });
+        });
+      })
+      .catch(() => {
+        archive.textContent = 'Unable to load articles. Please try again later.';
       });
-    });
-        
-    document.querySelectorAll('img[data-src]').forEach((img) => {
-      imageObserver.observe(img);
+  }
+
+  function renderArticles(articles) {
+    while (archive.firstChild) archive.removeChild(archive.firstChild);
+    articles.forEach((article) => {
+      const readTime = estimateReadTime(article.excerpt || '');
+
+      const div = document.createElement('div');
+      div.className = 'article-item';
+
+      const link = document.createElement('a');
+      link.href = article.url;
+      link.textContent = article.title;
+      div.appendChild(link);
+
+      const meta = document.createElement('div');
+      meta.className = 'article-meta';
+      meta.textContent = `${article.date} \u00b7 ${readTime} min read \u00b7 ${article.category}`;
+      div.appendChild(meta);
+
+      const excerpt = document.createElement('p');
+      excerpt.textContent = article.excerpt;
+      div.appendChild(excerpt);
+
+      archive.appendChild(div);
     });
   }
-    
-  // Add active class to current page in navigation
+
+  // --- Feature 3: Nav active state ---
+
   const currentPath = window.location.pathname;
-  const navLinks = document.querySelectorAll('.nav-link');
-    
-  navLinks.forEach((link) => {
-    const linkPath = link.getAttribute('href');
-    if (linkPath === currentPath || 
-            (currentPath.includes(linkPath) && linkPath !== '/')) {
+  document.querySelectorAll('.nav-link').forEach((link) => {
+    if (link.getAttribute('href') === currentPath) {
       link.classList.add('active');
     }
   });
