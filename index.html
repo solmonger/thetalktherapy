@@ -22,26 +22,16 @@
 
     <main>
         <div class="container">
-            <section class="featured">
-                <div class="featured-label">Featured</div>
-                <h1 class="featured-title"><a href="/articles/active-listening.html">The Art of Active Listening</a></h1>
-                <p class="featured-excerpt">We've been taught that caring means solving. But sometimes the most radical thing you can do is simply stay present with someone in their pain — to listen without reaching for a fix.</p>
-                <div class="featured-meta">Mental Health · 8 min read</div>
+            <section id="featured" class="featured">
+                <!-- Populated dynamically from articles/index.json -->
             </section>
 
             <hr class="divider">
 
             <section class="article-list">
                 <div class="article-list-header">Recent</div>
-                <div class="article-grid">
-                    <div class="article-item">
-                        <h2 class="article-item-title"><a href="/articles/morning-routine.html">Building a Morning Routine for Mental Wellness</a></h2>
-                        <div class="article-item-meta">Self-Care · 6 min read · Mar 9, 2026</div>
-                    </div>
-                    <div class="article-item">
-                        <h2 class="article-item-title"><a href="/articles/difficult-conversations.html">Navigating Difficult Conversations with Loved Ones</a></h2>
-                        <div class="article-item-meta">Relationships · 10 min read · Mar 8, 2026</div>
-                    </div>
+                <div id="recent-articles" class="article-grid">
+                    <!-- Populated dynamically from articles/index.json -->
                 </div>
                 <a class="view-all" href="/articles.html">All articles →</a>
             </section>
