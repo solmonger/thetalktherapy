@@ -64,8 +64,8 @@
   "redirects": [],
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "source": "/articles",
+      "destination": "/articles.html"
     }
   ]
 }
