@@ -11,7 +11,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        // Add other HTML files here as needed
+        articles: resolve(__dirname, 'articles.html'),
       },
       output: {
         assetFileNames: (assetInfo) => {
