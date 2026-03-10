@@ -1,0 +1,112 @@
+<!--
+  article-template.html — Reference template for blog-publish.py
+
+  This file documents the HTML structure that blog-publish.py generates
+  for each article page. It is NOT served by Vite directly.
+
+  Placeholders use {{DOUBLE_BRACE}} syntax here for documentation.
+  blog-publish.py uses Python {single_brace} format strings.
+
+  Placeholders:
+    {{TITLE}}        - Article title
+    {{DESCRIPTION}}  - Article meta description / excerpt
+    {{ISO_DATE}}     - ISO 8601 date (e.g. 2026-03-10T00:00:00Z)
+    {{DISPLAY_DATE}} - Human-readable date (e.g. Mar 10, 2026)
+    {{CATEGORY}}     - Category label (e.g. Mental Health)
+    {{READ_TIME}}    - Estimated read time in minutes
+    {{CONTENT}}      - Article body HTML (rendered from markdown)
+    {{YEAR}}         - Copyright year (e.g. 2026)
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{DESCRIPTION}}">
+    <meta property="og:title" content="{{TITLE}}">
+    <meta property="og:description" content="{{DESCRIPTION}}">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="{{ISO_DATE}}">
+    <title>{{TITLE}} | The Talk Therapy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/templates/css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a class="logo" href="/">The Talk Therapy</a>
+            <div class="nav-menu">
+                <a class="nav-link" href="/articles.html">Articles</a>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="article-header">
+                <span class="article-category">{{CATEGORY}}</span>
+                <h1 class="article-page-title">{{TITLE}}</h1>
+                <div class="article-page-meta">{{READ_TIME}} min read &middot; {{DISPLAY_DATE}}</div>
+                <hr class="article-header-divider">
+            </header>
+
+            <div class="article-body">
+                {{CONTENT}}
+            </div>
+
+            <section class="continue-reading" style="max-width: 680px; margin: 0 auto;">
+                <div class="continue-reading-header">Continue Reading</div>
+                <!-- Populated by JS from index.json or static links from blog-publish.py -->
+            </section>
+
+            <div class="podcast-bar" style="max-width: 680px; margin: var(--space-xl) auto;">
+                <div class="podcast-bar-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
+                        <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+                        <line x1="12" y1="19" x2="12" y2="23"/>
+                        <line x1="8" y1="23" x2="16" y2="23"/>
+                    </svg>
+                </div>
+                <div class="podcast-bar-text">
+                    <div>The Talk Therapy Podcast</div>
+                    <div>New episodes weekly on Podbean</div>
+                </div>
+                <a class="podcast-bar-link" href="https://thetalktherapy.podbean.com/" target="_blank" rel="noopener">Listen &rarr;</a>
+            </div>
+
+            <section class="newsletter" style="max-width: 680px; margin: var(--space-xl) auto;">
+                <div class="container">
+                    <div class="newsletter-inner">
+                        <h2 class="newsletter-title">Stay Connected</h2>
+                        <p class="newsletter-text">Weekly essays on mental health, growth, and meaningful conversation.</p>
+                        <form class="newsletter-form">
+                            <input class="newsletter-input" type="email" placeholder="Your email address" required>
+                            <button class="btn-subscribe" type="submit">Subscribe</button>
+                        </form>
+                        <p class="newsletter-privacy">We respect your privacy. Unsubscribe at any time.</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-inner">
+                <span class="footer-copyright">&copy; {{YEAR}} The Talk Therapy</span>
+                <div class="footer-links">
+                    <a class="footer-link" href="https://thetalktherapy.podbean.com/" target="_blank" rel="noopener">Podcast</a>
+                    <a class="footer-link" href="https://bsky.app/profile/thetalktherapy.bsky.social" target="_blank" rel="noopener">Bluesky</a>
+                    <a class="footer-link" href="/privacy">Privacy</a>
+                    <a class="footer-link" href="/terms">Terms</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="/templates/js/main.js"></script>
+</body>
+</html>
