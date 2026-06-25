@@ -12,7 +12,7 @@
   "blocked_at": "2026-06-25T21:46:37.481167+00:00",
   "last_upload_error": "Uploading to Podbean:\n  File:  /home/agent-worker/podcast/episodes/2026-06-25.mp3 (1.4 MB)\n  Title: The Talk Therapy - 2026-06-25\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy - 2026-06-25\", \"content\": \"A daily 5-minute wellness reflection from The Talk\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp4/22149388/2026-06-25.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
   "description": "A daily 5-minute wellness reflection from The Talk Therapy.",
-  "static_url": "https://the-talk-therapy.vercel.app/podcast/episodes/2026-06-25.mp3",
-  "rss_url": "https://the-talk-therapy.vercel.app/podcast/feed.xml",
-  "static_published_at": "2026-06-25T21:57:16.075327+00:00"
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-06-25.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_published_at": "2026-06-25T22:09:29.680359+00:00"
 }

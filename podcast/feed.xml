@@ -4,9 +4,9 @@
     <title>The Talk Therapy Podcast</title>
     <description>A daily 5-minute wellness reflection from The Talk Therapy.</description>
     <language>en</language>
-    <link>https://the-talk-therapy.vercel.app</link>
+    <link>https://raw.githubusercontent.com/solmonger/thetalktherapy/main</link>
     <generator>OpenClaw podcast-publish.py</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 21:57:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:09:29 GMT</lastBuildDate>
     <itunes:author>The Talk Therapy</itunes:author>
     <itunes:summary>A daily 5-minute wellness reflection from The Talk Therapy.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -15,9 +15,9 @@
       <title>The Talk Therapy - 2026-06-25</title>
       <description>A daily 5-minute wellness reflection from The Talk Therapy.</description>
       <pubDate>Thu, 25 Jun 2026 21:44:07 GMT</pubDate>
-      <enclosure url="https://the-talk-therapy.vercel.app/podcast/episodes/2026-06-25.mp3" length="1424451" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-06-25.mp3" length="1424451" type="audio/mpeg" />
       <itunes:duration>00:02:21</itunes:duration>
-      <guid isPermaLink="false">https://the-talk-therapy.vercel.app/podcast/episodes/2026-06-25.mp3</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-06-25.mp3</guid>
     </item>
   </channel>
 </rss>
