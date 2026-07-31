@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Talk Therapy \u2014 (Sound of radio static briefly, then fades slightly under voice)",
+    "file": "2026-07-31.mp3",
+    "url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-07-31.mp3",
+    "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-07-31.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "duration_seconds": 271,
+    "size_bytes": 2574069,
+    "created_at": "2026-07-31T09:30:42.207340+00:00"
+  },
+  {
     "title": "The Talk Therapy \u2014 Incomplete things",
     "file": "2026-07-30.mp3",
     "url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-07-30.mp3",
