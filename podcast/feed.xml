@@ -2,61 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Talk Therapy Podcast</title>
-    <description>Welcome to Talk Therapy, the podcast about the small, everyday things that make up a well-lived life. I’m your host, Sarah Miller, and today we’re going to explore that feeling of being “off,” that sense of static in our internal radio. It’s not about big crises, necessarily, but about those moments when our internal world feels…fuzzy. When we're present in body, but not in mind. It’s surprisingly common, and understanding *why* it happens is the first step to finding a little clarity.
-
---- Transcript ---
-
-TITLE: The Static Between Stations
-
-(Sound of radio static briefly, then fades slightly under voice)
-Have you ever felt… disconnected? Like you’re going through the motions, but not *really* present?
-
-Welcome to Talk Therapy, the podcast about the small, everyday things that make up a well-lived life. I’m your host, Sarah Miller, and today we’re going to explore that feeling of being “off,” that sense of static in our internal radio. It’s not about big crises, necessarily, but about those moments when our internal world feels…fuzzy. When we're present in body, but not in mind. It’s surprisingly common, and understanding *why* it happens is the first step to finding a little clarity.
-
-I was talking to a friend, Liam, last week. He’s a really driven guy, always juggling a million things – work, a side hustle, volunteering, trying to keep up with his social life. He described feeling…flat. He said he’d be sitting with friends, laughing at a joke, and realize he hadn’t actually *felt* the humor. He was performing the role of “engaged friend,” but internally, it was just…noise. He wasn't unhappy, exactly, just…distant. Like he was listening to a radio station with terrible reception. He knew *something* was playing, but couldn’t quite make it out. That feeling of static. It resonated with me because I think we all experience that at times – that disconnect between what we *should* be feeling and what we *are* feeling.
-
-So, what’s going on when we feel this way? One thing is simply overwhelm. Our brains are incredible at adapting, but they aren't built to constantly process a massive influx of information and demands. When we're chronically busy, constantly “on,” our nervous system can start to downregulate our emotional experience as a protective mechanism. It's like the brain says, "Okay, too much happening. Let's just…dim the lights a little." That's not necessarily a bad thing; it’s survival. But living in that dimmed state consistently isn’t sustainable or fulfilling.
-
-Another piece of this puzzle is what we call “cognitive dissonance.” This happens when we hold conflicting beliefs or when our actions don't align with our values. For example, Liam was volunteering because he *believes* in giving back to the community, but he was also exhausted and resentful about fitting it into his already packed schedule. That internal conflict creates static. We unconsciously try to resolve that dissonance, often by numbing out or disconnecting from our feelings.
-
-Finally, and this is a big one, it can be a sign that we’re operating on autopilot. We get so caught up in routines and expectations – our own or others' – that we forget to check in with ourselves. We stop asking “What do *I* actually want?” or “How am *I* truly feeling?” We just keep going, and the internal static grows louder. It's a subtle form of disassociation – a way of mentally distancing ourselves from experiences that feel overwhelming or unfulfilling.
-
-Okay, so what can we do about it? Let’s try a small exercise I call “The Sensory Check-In.” It takes about two minutes and can be done anywhere. Find a comfortable position, either sitting or lying down. Close your eyes if that feels safe for you. And then, slowly bring your attention to your senses. Start with sound. Notice five things you can hear right now – really listen for them. Don't judge them as good or bad, just acknowledge them. Then, focus on touch. Notice four things you can physically feel – the texture of your clothes against your skin, the weight of your body on the chair, the temperature of the air. Next, three things you can see (even with your eyes closed, you might see colors or shapes). Then two things you can smell. And finally, one thing you can taste – even if it’s just the lingering taste of your last meal or the freshness of your breath.
-
-This exercise isn't about escaping your thoughts; it’s about grounding yourself in the present moment. By intentionally engaging your senses, you interrupt the cycle of rumination and reconnect with your physical experience. It’s like tuning the radio dial and finding a clearer signal. Do this a few times a day when you notice that feeling of static creeping in. It won’t magically solve everything, but it can create small pockets of clarity and presence in your day. Remember: small shifts can lead to significant changes over time.
-
-That's all for today's episode of Talk Therapy. Thanks for listening. Remember to be kind to yourself and to allow yourself moments of stillness amidst the noise. Until next time, take care. (Sound of gentle music fades in and then out.)</description>
+    <description>A daily 5-minute wellness reflection from The Talk Therapy.</description>
     <language>en</language>
     <link>https://raw.githubusercontent.com/solmonger/thetalktherapy/main</link>
     <generator>OpenClaw podcast-publish.py</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 09:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:41:09 GMT</lastBuildDate>
     <itunes:author>The Talk Therapy</itunes:author>
-    <itunes:summary>Welcome to Talk Therapy, the podcast about the small, everyday things that make up a well-lived life. I’m your host, Sarah Miller, and today we’re going to explore that feeling of being “off,” that sense of static in our internal radio. It’s not about big crises, necessarily, but about those moments when our internal world feels…fuzzy. When we're present in body, but not in mind. It’s surprisingly common, and understanding *why* it happens is the first step to finding a little clarity.
-
---- Transcript ---
-
-TITLE: The Static Between Stations
-
-(Sound of radio static briefly, then fades slightly under voice)
-Have you ever felt… disconnected? Like you’re going through the motions, but not *really* present?
-
-Welcome to Talk Therapy, the podcast about the small, everyday things that make up a well-lived life. I’m your host, Sarah Miller, and today we’re going to explore that feeling of being “off,” that sense of static in our internal radio. It’s not about big crises, necessarily, but about those moments when our internal world feels…fuzzy. When we're present in body, but not in mind. It’s surprisingly common, and understanding *why* it happens is the first step to finding a little clarity.
-
-I was talking to a friend, Liam, last week. He’s a really driven guy, always juggling a million things – work, a side hustle, volunteering, trying to keep up with his social life. He described feeling…flat. He said he’d be sitting with friends, laughing at a joke, and realize he hadn’t actually *felt* the humor. He was performing the role of “engaged friend,” but internally, it was just…noise. He wasn't unhappy, exactly, just…distant. Like he was listening to a radio station with terrible reception. He knew *something* was playing, but couldn’t quite make it out. That feeling of static. It resonated with me because I think we all experience that at times – that disconnect between what we *should* be feeling and what we *are* feeling.
-
-So, what’s going on when we feel this way? One thing is simply overwhelm. Our brains are incredible at adapting, but they aren't built to constantly process a massive influx of information and demands. When we're chronically busy, constantly “on,” our nervous system can start to downregulate our emotional experience as a protective mechanism. It's like the brain says, "Okay, too much happening. Let's just…dim the lights a little." That's not necessarily a bad thing; it’s survival. But living in that dimmed state consistently isn’t sustainable or fulfilling.
-
-Another piece of this puzzle is what we call “cognitive dissonance.” This happens when we hold conflicting beliefs or when our actions don't align with our values. For example, Liam was volunteering because he *believes* in giving back to the community, but he was also exhausted and resentful about fitting it into his already packed schedule. That internal conflict creates static. We unconsciously try to resolve that dissonance, often by numbing out or disconnecting from our feelings.
-
-Finally, and this is a big one, it can be a sign that we’re operating on autopilot. We get so caught up in routines and expectations – our own or others' – that we forget to check in with ourselves. We stop asking “What do *I* actually want?” or “How am *I* truly feeling?” We just keep going, and the internal static grows louder. It's a subtle form of disassociation – a way of mentally distancing ourselves from experiences that feel overwhelming or unfulfilling.
-
-Okay, so what can we do about it? Let’s try a small exercise I call “The Sensory Check-In.” It takes about two minutes and can be done anywhere. Find a comfortable position, either sitting or lying down. Close your eyes if that feels safe for you. And then, slowly bring your attention to your senses. Start with sound. Notice five things you can hear right now – really listen for them. Don't judge them as good or bad, just acknowledge them. Then, focus on touch. Notice four things you can physically feel – the texture of your clothes against your skin, the weight of your body on the chair, the temperature of the air. Next, three things you can see (even with your eyes closed, you might see colors or shapes). Then two things you can smell. And finally, one thing you can taste – even if it’s just the lingering taste of your last meal or the freshness of your breath.
-
-This exercise isn't about escaping your thoughts; it’s about grounding yourself in the present moment. By intentionally engaging your senses, you interrupt the cycle of rumination and reconnect with your physical experience. It’s like tuning the radio dial and finding a clearer signal. Do this a few times a day when you notice that feeling of static creeping in. It won’t magically solve everything, but it can create small pockets of clarity and presence in your day. Remember: small shifts can lead to significant changes over time.
-
-That's all for today's episode of Talk Therapy. Thanks for listening. Remember to be kind to yourself and to allow yourself moments of stillness amidst the noise. Until next time, take care. (Sound of gentle music fades in and then out.)</itunes:summary>
+    <itunes:summary>A daily 5-minute wellness reflection from The Talk Therapy.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology" />
+    <item>
+      <title>The Talk Therapy — The power of revisiting the past, not to dwell there, but to understand how...</title>
+      <description>A daily 5-minute wellness reflection from The Talk Therapy.</description>
+      <pubDate>Wed, 12 Aug 2026 09:35:48 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-08-08.mp3" length="2380605" type="audio/mpeg" />
+      <itunes:duration>00:04:11</itunes:duration>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-08-08.mp3</guid>
+    </item>
     <item>
       <title>The Talk Therapy — (Sound of radio static briefly, then fades slightly under voice)</title>
       <description>Welcome to Talk Therapy, the podcast about the small, everyday things that make up a well-lived life. I’m your host, Sarah Miller, and today we’re going to explore that feeling of being “off,” that sense of static in our internal radio. It’s not about big crises, necessarily, but about those moments when our internal world feels…fuzzy. When we're present in body, but not in mind. It’s surprisingly common, and understanding *why* it happens is the first step to finding a little clarity.
