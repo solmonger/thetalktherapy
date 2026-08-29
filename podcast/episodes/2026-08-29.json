@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Unsent Email",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-08-29.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-08-28.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 245,
+  "size_bytes": 2313789,
+  "created_at": "2026-08-29T09:31:52.158463+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-08-29T09:31:59.164488+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-08-29.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Unsent Email\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Unsent Email\", \"content\": \"We often think of communication as being about wha\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-08-29.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "We often think of communication as being about what *is* said, or what *is* shared. But sometimes, what isn\u2019t communicated is just as significant. The things we choose to keep private, the thoughts we don\u2019t voice \u2013 these can have a powerful impact on our internal state and, ultimately, our relationships. This isn\u2019t about analyzing *why* we don\u2019t communicate, but simply acknowledging the common experience and considering its potential effects.\n\n--- Transcript ---\n\nTITLE: The Unsent Email\n\nHave you ever typed a message, carefully crafting each word, only to\u2026 not send it? That feeling of holding something back. That\u2019s what we\u2019re exploring today.\n\nWe often think of communication as being about what *is* said, or what *is* shared. But sometimes, what isn\u2019t communicated is just as significant. The things we choose to keep private, the thoughts we don\u2019t voice \u2013 these can have a powerful impact on our internal state and, ultimately, our relationships. This isn\u2019t about analyzing *why* we don\u2019t communicate, but simply acknowledging the common experience and considering its potential effects.\n\nImagine a person who has been feeling increasingly frustrated with a partner\u2019s habit of consistently arriving late. It\u2019s not a major issue, but it happens frequently enough that it\u2019s become a source of quiet resentment. This person spends an hour composing an email, outlining how the lateness feels \u2013 disrespectful, dismissive, and unsettling. They explain the impact on their own plans and feelings. It\u2019s a well-written email, clear and direct, but as they hover over the \u2018send\u2019 button, hesitation creeps in. They delete it. They worry about causing an argument, about their partner becoming defensive, about potentially escalating a minor issue into something larger. The email is gone, but the frustration remains.\n\nThis scenario illustrates a few key points. First, the act of *writing* the email, even without sending it, served a purpose. It allowed for emotional processing. Putting feelings into words can be a way to understand them better, to gain some distance from them. It\u2019s a form of self-reflection, even if that reflection doesn\u2019t result in external expression. \n\nSecond, the hesitation to send highlights a common conflict: the desire for authenticity versus the fear of conflict or negative consequences. We often weigh the potential benefits of expressing ourselves against the potential costs. This isn\u2019t necessarily a negative thing; it\u2019s a natural part of navigating social dynamics. However, consistently prioritizing avoiding conflict over expressing genuine feelings can lead to a build-up of unaddressed emotions.\n\nThird, unsent communication isn't always about avoiding conflict with others. Sometimes it's about self-censorship \u2013 a belief that our thoughts or feelings aren\u2019t valid, aren\u2019t important enough to share, or will be misunderstood. This can stem from past experiences or ingrained patterns of behavior. The internal message becomes: \u201cIt\u2019s safer to keep this to myself.\u201d\n\nIt's important to recognize that *holding* something doesn't make it disappear. The energy required to suppress thoughts and feelings can be draining, and can subtly affect mood and behavior.\n\nLet\u2019s try a simple exercise. Think of something \u2013 a thought, a feeling, a concern \u2013 that you\u2019ve been holding back from expressing to someone else. It doesn't have to be dramatic. It could be a small annoyance, a gentle disagreement, or an unacknowledged appreciation. \n\nNow, without actually sending anything to anyone, write it out. A letter, an email draft, even just a few notes on a piece of paper. Write as if you *were* going to send it, being honest and direct about your experience. Don't worry about grammar or perfection; just get the thoughts out of your head and onto something tangible.\n\nOnce you\u2019ve finished writing, don\u2019t send it. Instead, simply read it over. Notice what comes up for you as you read your own words. What feelings are present? What needs are expressed? You can then safely discard the writing. The goal isn't to resolve the situation or change anyone else's behavior; it's to provide yourself with an opportunity for emotional release and self-awareness. This practice can offer insight into patterns of communication \u2013 or non-communication \u2013 and help you understand your own internal landscape.\n\nAcknowledging the power of unsent communication is about recognizing the complexity of human interaction. It\u2019s about being mindful of both what we say and what we choose not to say, and understanding the impact of both on our well-being.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-08-29.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-08-29T09:31:59.228892+00:00",
+  "local_sha256": "e39cd8a997ce66fa281cb1d9af0c70bf647f2431afba45fcb5550b63365f6c95",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-08-29T09:32:05.795683+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2313789,
+    "feed_size": 108261,
+    "local_sha256": "e39cd8a997ce66fa281cb1d9af0c70bf647f2431afba45fcb5550b63365f6c95",
+    "public_sha256": "e39cd8a997ce66fa281cb1d9af0c70bf647f2431afba45fcb5550b63365f6c95",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-08-29.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "e39cd8a997ce66fa281cb1d9af0c70bf647f2431afba45fcb5550b63365f6c95",
+    "public_sha256": "e39cd8a997ce66fa281cb1d9af0c70bf647f2431afba45fcb5550b63365f6c95",
+    "byte_identity": "VERIFIED"
+  }
+}
