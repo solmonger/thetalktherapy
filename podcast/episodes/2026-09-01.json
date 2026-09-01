@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Closed Door",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-01.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-01.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 235,
+  "size_bytes": 2228061,
+  "created_at": "2026-09-01T09:30:02.230287+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-01T09:30:07.960640+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-01.mp3 (2.1 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Closed Door\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Closed Door\", \"content\": \"This is a space to explore the everyday moments th\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp2/22149388/2026-09-01.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is a space to explore the everyday moments that shape our internal world. We often focus on big life events, but it\u2019s the smaller, recurring patterns that can really tell us something about ourselves and our relationships. Today we\u2019re going to consider what it means when we consistently encounter a sense of closed doors \u2013 and how we might respond. It's not about forcing doors open, but understanding what the closed door might be signaling.\n\n--- Transcript ---\n\nTITLE: The Closed Door\n\nHave you ever felt like something, or someone, is just\u2026 unavailable? Not in a dramatic way, but a quiet, consistent unavailability.\n\nThis is a space to explore the everyday moments that shape our internal world. We often focus on big life events, but it\u2019s the smaller, recurring patterns that can really tell us something about ourselves and our relationships. Today we\u2019re going to consider what it means when we consistently encounter a sense of closed doors \u2013 and how we might respond. It's not about forcing doors open, but understanding what the closed door might be signaling.\n\nImagine a situation: a friend is consistently enthusiastic about starting a new hobby *with* you \u2013 a book club, a weekly hike, learning a language. They suggest it, talk about it with excitement, even make initial plans. But then, when it comes time to actually *do* the thing, they always seem to have something else come up. A last-minute commitment, feeling unwell, or simply a lack of energy. It\u2019s not presented as an apology, or even a clear cancellation. It's more of a fading away of the plan. You begin to notice this pattern. It\u2019s not malicious, not a direct rejection. It just\u2026 doesn\u2019t happen. It leaves you feeling a little off-balance, wondering if you misread the initial enthusiasm.\n\nThis scenario highlights a common dynamic: the experience of encountering emotional unavailability. It\u2019s important to distinguish this from someone simply being busy or having legitimate conflicts. Those are part of life. Emotional unavailability manifests as a pattern of distance, inconsistency, or an inability to fully engage in reciprocal connection. \n\nOne insight here is that we often project our own desires for connection onto others. We assume that if someone *says* they want to do something with us, they will. But people operate from different internal landscapes, with varying capacities for commitment and vulnerability. Their stated desire doesn\u2019t guarantee shared action. \n\nAnother point is that sometimes a \u201cclosed door\u201d isn\u2019t about *you*. It may reflect something happening within the other person \u2013 their own anxieties, unresolved issues, or simply a different way of managing their time and energy. Attributing it to a personal failing on your part can be inaccurate and unhelpful.\n\nFinally, recognizing this pattern allows us to observe it without immediately trying to *fix* it. The urge to push, to convince, or to guilt someone into reciprocating can often backfire and reinforce the distance. Sometimes accepting the closed door \u2013 not agreeing with it, but acknowledging its presence \u2013 is the first step towards protecting your own emotional energy.\n\n\n\nLet\u2019s try a brief exercise called \u201cThe Observation Pause.\u201d When you notice this pattern of consistent unavailability with someone \u2013 remember, we're talking about a pattern, not an isolated incident \u2013 pause before reacting. Instead of immediately offering explanations or attempting to reschedule, simply observe your own internal response. \n\nAsk yourself: What feelings are arising in me right now? Disappointment? Frustration? Sadness? A sense of rejection? Name the feeling without judgment. Then, acknowledge the pattern itself: \u201cThis is happening again. They express interest but then don\u2019t follow through.\u201d \n\nFinally, and this is key: ask yourself what *you* need in this moment. Do you need to communicate your feelings? Do you need to adjust your expectations? Or do you simply need to create some emotional distance for yourself? The goal isn\u2019t to change the other person\u2019s behavior; it\u2019s to become more aware of your own needs and boundaries in response to it. Write down these three observations \u2013 feeling, pattern, need \u2013 in a journal or on a piece of paper. This creates space for thoughtful response instead of reactive behavior.\n\nRecognizing patterns of unavailability is about self-awareness and emotional self-preservation. It\u2019s about understanding that not every door will open, and that's okay. It allows us to focus our energy on relationships where reciprocal connection is genuinely present and nurtured.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-01.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-01T09:30:08.026420+00:00",
+  "local_sha256": "8f529e6e78b498cfaa8ea4394df32e570de75562d09fe75b6e20b51872282ca4",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-01T09:30:15.600830+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2228061,
+    "feed_size": 113423,
+    "local_sha256": "8f529e6e78b498cfaa8ea4394df32e570de75562d09fe75b6e20b51872282ca4",
+    "public_sha256": "8f529e6e78b498cfaa8ea4394df32e570de75562d09fe75b6e20b51872282ca4",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-01.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "8f529e6e78b498cfaa8ea4394df32e570de75562d09fe75b6e20b51872282ca4",
+    "public_sha256": "8f529e6e78b498cfaa8ea4394df32e570de75562d09fe75b6e20b51872282ca4",
+    "byte_identity": "VERIFIED"
+  }
+}
