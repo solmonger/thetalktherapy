@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The feeling of being overwhelmed, and specifically, how that feeling can...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-02.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-02.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 244,
+  "size_bytes": 2295285,
+  "created_at": "2026-09-02T09:30:21.709853+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-02T09:30:22.904044+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-02.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 The feeling of being overwhelmed, and specifically, how that feeling can...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The feeling of being overwhelme\", \"content\": \"Today, we\\u2019re going to talk about the feeling of be\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp3/22149388/2026-09-02.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019re going to talk about the feeling of being overwhelmed, and specifically, how that feeling can show up as a sense of everything just\u2026accumulating. Not necessarily big, dramatic events, but a constant drip-drip-drip of small demands, tasks, and information. It\u2019s a common experience, and understanding *why* it happens can be the first step to navigating it. This isn't about time management, specifically. It\u2019s about the internal experience of feeling like you\u2019re losing control of the flo\n\n--- Transcript ---\n\nTITLE: The Overflowing Inbox\n\nHave you ever felt\u2026swamped? Like there\u2019s just too much coming at you, and no way to handle it all?\n\nToday, we\u2019re going to talk about the feeling of being overwhelmed, and specifically, how that feeling can show up as a sense of everything just\u2026accumulating. Not necessarily big, dramatic events, but a constant drip-drip-drip of small demands, tasks, and information. It\u2019s a common experience, and understanding *why* it happens can be the first step to navigating it. This isn't about time management, specifically. It\u2019s about the internal experience of feeling like you\u2019re losing control of the flow.\n\nImagine someone who works from home. They\u2019re generally good at their job, and they enjoy it. But recently, they\u2019ve noticed a shift. It started with a few extra emails each day. Then, requests for small favors from colleagues. Then, notifications from various apps \u2013 news alerts, social media, reminders. Individually, each thing is manageable. But they begin to pile up. The inbox isn\u2019t just full of work; it's full of requests for opinions, invitations to events, links to articles\u2026things that aren\u2019t necessarily urgent, but demand attention. This person finds themself constantly checking, constantly responding, constantly feeling behind, even when they\u2019ve technically \u201ccompleted\u201d their tasks. The feeling isn\u2019t about being *busy*; it's about a sense of being\u2026contained within the accumulation.\n\nOne key aspect of this experience is the illusion of control. We often believe that if we just respond quickly enough, process enough information, or stay on top of everything, we can *prevent* things from piling up. But the nature of life is that things *will* accumulate. Demands will arise. Information will flow. Trying to control the inflow is often exhausting and ultimately ineffective.\n\nAnother insight is that our brains aren't designed to handle endless streams of input without some form of filtering or processing time. Constant stimulation can lead to decision fatigue, where even simple choices feel overwhelming. It's like trying to listen to multiple conversations at once \u2013 you end up hearing fragments but understanding very little.\n\nFinally, consider the emotional weight attached to these accumulating items. Each email, each notification, represents a potential obligation or expectation. Even if we don't consciously register it, our brains are processing the weight of these possibilities. That weight adds up over time, contributing to the feeling of being overwhelmed. It\u2019s not just the *quantity* of things to do; it's the perceived *responsibility* associated with them. This can be particularly true for people who struggle with setting boundaries or saying \u201cno.\u201d\n\nLet's try a small exercise called \u201cThe Mental Drain.\u201d Find a quiet space where you won't be disturbed for about five minutes. Close your eyes and imagine your inbox \u2013 or whatever represents the accumulation for you \u2013 as a physical space. A room, perhaps. Notice what it looks like: Is it cluttered? Dark? Overstuffed? Just observe it without judgment.\n\nNow, imagine yourself standing at the doorway of this space. You don\u2019t have to clean it up. You don\u2019t have to sort through anything. You simply acknowledge its existence. Recognize that it *is* full, and that\u2019s okay.\n\nNext, imagine placing a single, symbolic object near the doorway \u2013 a small stone, a flower, anything that represents a sense of calm or grounding for you. This object isn\u2019t meant to *fix* the problem; it's meant to represent your intention to approach it with more awareness and self-compassion.\n\nFinally, take a few deep breaths and gently open your eyes. This exercise isn\u2019t about eliminating the accumulation; it's about creating some distance from it and recognizing your own capacity to simply *be* with the feeling of overwhelm without getting lost in it. Repeat this exercise as needed when you notice yourself feeling swamped.\n\nRemember that feeling overwhelmed is a signal \u2013 a signal that your system is reaching its capacity. It's not a sign of weakness or failure; it's simply information. Paying attention to that information allows you to respond with more kindness toward yourself and more intentionality in your actions.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-02.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-02T09:30:22.967301+00:00",
+  "local_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-02T09:30:27.391399+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2295285,
+    "feed_size": 119191,
+    "local_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "public_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-02.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "public_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "byte_identity": "VERIFIED"
+  }
+}
