@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 Those little imbalances in our lives \u2013 the things that don\u2019t seem like a big...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-03.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-02.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 244,
+  "size_bytes": 2295285,
+  "created_at": "2026-09-03T09:30:44.811601+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-03T09:30:50.821524+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-03.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 Those little imbalances in our lives \u2013 the things that don\u2019t seem like a big...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 Those little imbalances in our \", \"content\": \"Today, we\\u2019re talking about those little imbalances\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp4/22149388/2026-09-03.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019re talking about those little imbalances in our lives \u2013 the things that don\u2019t seem like a big deal on their own, but gradually create a sense of instability. We often focus on large-scale problems, career shifts, or major relationship challenges. But sometimes, it\u2019s the accumulation of smaller, unnoticed issues that leave us feeling off-kilter, frustrated, or just\u2026tired. It\u2019s about recognizing where things aren\u2019t quite level and understanding why that matters.\n\n--- Transcript ---\n\nTITLE: The Wobbly Table\n\nHave you ever noticed how small imbalances can throw everything off? Like a table with one leg slightly shorter than the others?\n\nToday, we\u2019re talking about those little imbalances in our lives \u2013 the things that don\u2019t seem like a big deal on their own, but gradually create a sense of instability. We often focus on large-scale problems, career shifts, or major relationship challenges. But sometimes, it\u2019s the accumulation of smaller, unnoticed issues that leave us feeling off-kilter, frustrated, or just\u2026tired. It\u2019s about recognizing where things aren\u2019t quite level and understanding why that matters.\n\nImagine a friend recently moved into a new apartment. Everything *looked* good. Nice furniture, a functional kitchen, a comfortable living room. But after a few weeks, they started to feel increasingly anxious and restless. They couldn\u2019t pinpoint exactly *why*. They weren't facing any major crises. Then, one day, while trying to enjoy a meal, they realized the dining table was wobbly. It wasn't dramatically so, but enough to be distracting. They kept adjusting plates, napkins, anything to stop the table from rocking. Fixing the table didn't magically solve all their problems, but it removed a constant, low-level source of irritation that had been subtly affecting their mood. It highlighted how much energy was being spent compensating for something small but persistent.\n\nThis idea of the \u201cwobbly table\u201d is a useful metaphor for a lot of things in our lives. Often, we're subconsciously adjusting to imbalances in our routines, our relationships, or even our own expectations. These imbalances aren\u2019t necessarily negative events; they\u2019re more like ongoing misalignments. Perhaps you consistently take on more responsibility than feels fair in a shared task with a partner. Or maybe you routinely agree to commitments you don't truly have time for, leading to a feeling of being stretched too thin. \n\nOne key insight is that these small imbalances drain our emotional and mental resources. It\u2019s like constantly correcting for that wobbly table \u2013 it requires effort and prevents you from fully relaxing. Another is that we often become accustomed to the wobble. It becomes \u201cnormal,\u201d and we stop noticing how much energy it consumes. We might even start to believe we *should* be able to handle it, reinforcing a pattern of overextension or unequal distribution of effort. Finally, recognizing these imbalances isn't about assigning blame; it\u2019s about identifying areas where adjustments can be made to create more stability and ease.\n\nLet's try a quick exercise. Take a moment to think about one area of your life where you consistently feel slightly\u2026off. It could be anything \u2013 a chore division with a housemate, the way you spend your evenings, a recurring pattern in your conversations with a family member. Now, without trying to *fix* it immediately, simply name the imbalance. Be specific. Instead of saying \"My relationship feels stressful,\" try \"I consistently feel like I'm the one initiating plans with my partner.\" \n\nNext, on a scale of 1 to 10 \u2013 with 1 being \u201cnot noticeable\u201d and 10 being \u201ccompletely draining\u201d \u2013 rate how much energy this imbalance is costing you. Just acknowledge the number. You don\u2019t need to analyze it or judge yourself for it. Finally, consider one *small* adjustment you could make this week to address this imbalance. Again, it doesn't have to be a grand gesture. Perhaps you could politely express your need for more shared planning in your relationship. Or maybe you could say \"no\" to one extra commitment this week to reclaim some personal time. The goal isn't perfection; it's about starting to consciously level the table.\n\nRemember, it\u2019s okay if things aren\u2019t perfectly balanced all the time. Life is dynamic and requires ongoing adjustments. But by becoming more aware of those small wobbles, we can proactively address them and create a more stable and sustainable sense of well-being.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-03.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-03T09:30:50.896209+00:00",
+  "local_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-03T09:30:57.371422+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2295285,
+    "feed_size": 123707,
+    "local_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "public_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-03.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "public_sha256": "76c0dec71b358e57714533b7bf42d677b2f79fdbab1455e2b480345ee921ad17",
+    "byte_identity": "VERIFIED"
+  }
+}
