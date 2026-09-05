@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The discomfort of internal inconsistency \u2013 when our actions don't align with...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-05.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-05.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 244,
+  "size_bytes": 2330445,
+  "created_at": "2026-09-05T09:30:48.520995+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-05T09:30:54.572651+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-05.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 The discomfort of internal inconsistency \u2013 when our actions don't align with...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The discomfort of internal inco\", \"content\": \"Today we\\u2019ll be talking about the discomfort of int\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-09-05.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today we\u2019ll be talking about the discomfort of internal inconsistency \u2013 when our actions don't align with our values, or our stated beliefs don\u2019t match our behaviors. This isn't about grand moral failings, but the small, everyday discrepancies that can quietly erode our sense of wellbeing. It\u2019s a common experience, and recognizing it is the first step toward navigating it. We often strive for consistency, for a unified sense of self, but life is rarely so neat.\n\n--- Transcript ---\n\nTITLE: The Mismatched Socks\n\nHave you ever felt like something just\u2026doesn\u2019t quite fit? Not physically, but internally? A sense of being slightly off-kilter?\n\nToday we\u2019ll be talking about the discomfort of internal inconsistency \u2013 when our actions don't align with our values, or our stated beliefs don\u2019t match our behaviors. This isn't about grand moral failings, but the small, everyday discrepancies that can quietly erode our sense of wellbeing. It\u2019s a common experience, and recognizing it is the first step toward navigating it. We often strive for consistency, for a unified sense of self, but life is rarely so neat.\n\nImagine a person who consistently speaks about the importance of work-life balance. They advocate for setting boundaries, taking time for hobbies, and prioritizing family. Yet, they routinely work late, cancel weekend plans due to work demands, and seem genuinely unable to disconnect. To those around them, they present a picture of someone prioritizing wellbeing, but their actions tell a different story. This creates a quiet tension, not necessarily visible to others, but felt acutely by the individual. It\u2019s like wearing mismatched socks \u2013 a subtle discomfort that\u2019s always present. It isn\u2019t necessarily a dramatic problem, but it\u2019s a persistent one.\n\nThis disconnect between values and behavior is often rooted in a few things. Sometimes it stems from external pressures \u2013 a demanding job, family obligations, or societal expectations. We might *believe* in balance, but feel *compelled* to prioritize work to meet external demands. Other times, it's about unacknowledged priorities. We might *say* we value relaxation, but subconsciously prioritize achievement or recognition. This isn\u2019t about hypocrisy; it's about the complex interplay of conscious beliefs and unconscious motivations.\n\nAnother factor is the role of habit. We can fall into patterns of behavior that no longer serve us, even if they contradict our current values. These habits can become automatic, operating outside of conscious awareness. It\u2019s easy to get caught in a cycle of doing things a certain way simply because that\u2019s what we\u2019ve always done. \n\nFinally, it\u2019s important to understand that values themselves can evolve. What was important to us five years ago might not be as significant today. Yet, we sometimes hold onto old values without consciously reassessing their relevance to our current lives. This can create internal conflict when our actions are guided by outdated beliefs.\n\nLet\u2019s try a small exercise to begin identifying these discrepancies. Take a moment to think of one area of your life where you feel a sense of unease or internal conflict. It could be related to work, relationships, health, or any other area. Now, list three values that you believe are important in that area. For example, if you\u2019re thinking about work, your values might be \u201ccreativity,\u201d \u201ccollaboration,\u201d and \u201cefficiency.\u201d\n\nNext, honestly assess your recent behavior in that area. Have your actions been aligned with those values? Where are the gaps? Be specific. Instead of saying \u201cI haven\u2019t been creative,\u201d try \u201cI haven\u2019t dedicated time to brainstorming new ideas in the last month.\u201d\n\nDon't judge yourself for these discrepancies. The goal isn't to eliminate them entirely \u2013 that's unrealistic \u2013 but to become aware of them. Simply acknowledging the mismatch is a powerful first step. Once you\u2019ve identified a discrepancy, ask yourself *why* it exists. What factors are contributing to the misalignment? Is it external pressure, an unacknowledged priority, a deeply ingrained habit, or an outdated value? This isn't about finding blame; it's about gaining understanding.\n\nInternal consistency is an ongoing process, not a destination. It requires self-awareness, honesty, and a willingness to adjust our behaviors to better align with our evolving values. Recognizing those mismatched socks is the first step toward feeling more grounded and authentic.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-05.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-05T09:30:54.641996+00:00",
+  "local_sha256": "4ab9ff6cd2449a61956e58bd32ca03d55071d969e04e52762f914576ff6a2a29",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-05T09:31:03.489504+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2330445,
+    "feed_size": 128580,
+    "local_sha256": "4ab9ff6cd2449a61956e58bd32ca03d55071d969e04e52762f914576ff6a2a29",
+    "public_sha256": "4ab9ff6cd2449a61956e58bd32ca03d55071d969e04e52762f914576ff6a2a29",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-05.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "4ab9ff6cd2449a61956e58bd32ca03d55071d969e04e52762f914576ff6a2a29",
+    "public_sha256": "4ab9ff6cd2449a61956e58bd32ca03d55071d969e04e52762f914576ff6a2a29",
+    "byte_identity": "VERIFIED"
+  }
+}
