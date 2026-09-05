@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The weight of \u201cshould\u201d \u2013 those internal directives that don\u2019t necessarily...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-04.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-04.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 241,
+  "size_bytes": 2301717,
+  "created_at": "2026-09-05T09:30:31.235940+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-05T09:30:37.092635+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-04.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 The weight of \u201cshould\u201d \u2013 those internal directives that don\u2019t necessarily...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The weight of \\u201cshould\\u201d \\u2013 those \", \"content\": \"This is a space for considering the everyday momen\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-09-04.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is a space for considering the everyday moments that shape our internal worlds. We often talk about big life events, but it's the smaller, persistent pressures that can really wear us down. Today, we\u2019ll be looking at the weight of \u201cshould\u201d \u2013 those internal directives that don\u2019t necessarily align with what we actually want, and how they impact our energy and choices. It's a common experience, and recognizing its patterns can be a helpful first step.\n\n--- Transcript ---\n\nTITLE: The Weight of the \u201cShould\u201d\n\n(Sound of a sigh, then quiet background music begins)\nHave you ever felt\u2026held back by something you *think* you ought to be doing?\n\nThis is a space for considering the everyday moments that shape our internal worlds. We often talk about big life events, but it's the smaller, persistent pressures that can really wear us down. Today, we\u2019ll be looking at the weight of \u201cshould\u201d \u2013 those internal directives that don\u2019t necessarily align with what we actually want, and how they impact our energy and choices. It's a common experience, and recognizing its patterns can be a helpful first step.\n\nImagine a friend is planning a weekend. They\u2019ve been invited to a hiking trip with a group, something they\u2019ve done before and generally enjoy. But this weekend, they\u2019re truly exhausted. They feel a pull to rest, to simply stay home and recharge. However, they keep thinking about what others will think if they cancel. They feel they *should* go, that they *should* be the reliable friend who always participates. This internal debate\u2014wanting rest versus feeling obligated\u2014creates a noticeable tension. It's not about the hike itself being bad, it's about the conflict between what\u2019s desired and what\u2019s perceived as expected. This friend isn't enjoying the anticipation of the weekend, only the growing sense of obligation.\n\nThe \u201cshoulds\u201d in our lives are often learned early on. They can come from family expectations, societal norms, or even self-imposed standards. They're rarely malicious in origin; often, they stem from a desire to be good, responsible, or liked. But when these \u201cshoulds\u201d become rigid and unexamined, they can lead to resentment, anxiety, and a disconnect from our own needs. \n\nOne key insight is that \u201cshoulds\u201d are often disguised expectations. They present themselves as moral imperatives\u2014things we *must* do\u2014but beneath the surface, they\u2019re often about avoiding discomfort or seeking approval. Another important point is recognizing that \u201cshoulds\u201d limit our options. When we\u2019re focused on what we *should* be doing, we\u2019re less open to exploring what we *want* to be doing. This narrowing of focus can lead to a sense of stagnation and unfulfillment. \n\nFinally, consider the energy drain. Constantly operating from a place of obligation\u2014doing things because you feel you *have* to\u2014is exhausting. It depletes emotional resources and leaves less energy for activities that genuinely bring joy or meaning. It\u2019s a subtle form of self-compromise that accumulates over time.\n\nLet's try a small exercise. Take a moment to think about one thing you feel you \u201cshould\u201d be doing right now. It doesn\u2019t have to be monumental\u2014it could be replying to an email, starting a chore, or attending an event. Now, gently ask yourself: \u201cWhat would happen if I didn\u2019t do this?\u201d Really explore the potential consequences. Often, the feared outcomes are far less severe than we imagine.\n\nNext, try reframing the \u201cshould\u201d as a choice. Instead of saying \"I should go to this event,\" try \"I have the option to go to this event.\" This small shift in language can create a sense of agency and reduce the feeling of obligation. \n\nFinally, acknowledge your own needs. Ask yourself: \"What do I genuinely *want* to do right now?\" It's okay if your desire doesn't align with the \u201cshould.\u201d The goal isn\u2019t to eliminate all responsibilities, but to create space for conscious choices\u2014choices that honor both your obligations and your well-being. This isn't about immediate rebellion against all commitments, but about introducing mindful awareness into your decision-making process.\n\n(Music swells slightly then fades)\nThe weight of the \u201cshould\u201d is something many of us carry. Recognizing its presence and gently questioning its hold is a continuous process. Remember, small shifts in perspective can create significant changes in how we experience our lives.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-04.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-05T09:30:37.161140+00:00",
+  "local_sha256": "f7c5644d63987710ec3bf88346413946bca704b9d3e33215bf34cdffad7d20b4",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-05T09:30:45.227982+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2301717,
+    "feed_size": 128580,
+    "local_sha256": "f7c5644d63987710ec3bf88346413946bca704b9d3e33215bf34cdffad7d20b4",
+    "public_sha256": "f7c5644d63987710ec3bf88346413946bca704b9d3e33215bf34cdffad7d20b4",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-04.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "f7c5644d63987710ec3bf88346413946bca704b9d3e33215bf34cdffad7d20b4",
+    "public_sha256": "f7c5644d63987710ec3bf88346413946bca704b9d3e33215bf34cdffad7d20b4",
+    "byte_identity": "VERIFIED"
+  }
+}
