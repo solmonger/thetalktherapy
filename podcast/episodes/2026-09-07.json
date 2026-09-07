@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Dusty Photograph",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-07.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-07.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 232,
+  "size_bytes": 2229285,
+  "created_at": "2026-09-07T09:30:53.303828+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-07T09:30:59.213320+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-07.mp3 (2.1 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Dusty Photograph\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Dusty Photograph\", \"content\": \"Today, we\\u2019re going to explore that feeling of disc\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp1/22149388/2026-09-07.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019re going to explore that feeling of disconnect, that sense of emotional distance from things we once knew well. It often happens with people, places, even aspects of ourselves. It\u2019s not necessarily negative, and understanding *why* it happens can be a helpful step in navigating life\u2019s ongoing changes. This feeling can be subtle, a quiet shift in perspective, or more pronounced, leaving us questioning our connection to something previously central.\n\n--- Transcript ---\n\nTITLE: The Dusty Photograph\n\nHave you ever looked at something familiar and suddenly felt\u2026distant from it? Like a memory, but not quite *your* memory?\n\nToday, we\u2019re going to explore that feeling of disconnect, that sense of emotional distance from things we once knew well. It often happens with people, places, even aspects of ourselves. It\u2019s not necessarily negative, and understanding *why* it happens can be a helpful step in navigating life\u2019s ongoing changes. This feeling can be subtle, a quiet shift in perspective, or more pronounced, leaving us questioning our connection to something previously central.\n\nImagine a friend is cleaning out their childhood home after a parent\u2019s passing. They come across a box of old photographs. They start looking through them, and there\u2019s one \u2013 a picture of them at a little league game, beaming, with their father coaching from the sidelines. But instead of warmth and nostalgia, they feel\u2026a sort of polite acknowledgment. They recognize the people, the place, the moment, intellectually. They *know* it was a happy time. But the emotional resonance isn\u2019t there. It feels like looking at a stranger\u2019s cherished memory. They aren't upset by this; it's just\u2026unexpected. It prompts a question: can we truly feel detached from our own past?\n\nThis experience touches on a few core ideas. Firstly, our memories aren\u2019t static recordings. They\u2019re constantly being reconstructed each time we recall them. Each reconstruction is influenced by our present emotional state, our current understanding of the world, and even our physical well-being. So, the memory of that little league game isn't the same now as it was the day after it happened, or even last year. \n\nSecondly, emotional distance can be a natural consequence of growth and change. As we evolve, our priorities shift. What once held immense significance might fade in importance, not because we\u2019re dismissing the past, but because we\u2019re moving toward something new. It's a re-calibration of emotional energy. A relationship that was once central may become less so as life takes different turns. A career path pursued with passion might lead to new interests. \n\nFinally, consider the concept of emotional regulation. Sometimes, distance is a protective mechanism. Difficult emotions associated with a memory might be subconsciously softened over time to make them more manageable. The brain doesn\u2019t always serve up raw emotion; it often filters and adjusts based on our capacity to handle it. This isn't about repression; it's about adaptation. The goal isn\u2019t to *always* feel intensely, but to function effectively.\n\nIf you find yourself experiencing this kind of disconnect \u2013 feeling distant from memories, people, or parts of your life \u2013 try a simple reflective exercise. Find an object that evokes a strong memory for you. It could be anything: an old ticket stub, a piece of clothing, a song. Hold it or look at it closely. Instead of trying to *force* a feeling, simply observe your response. What thoughts arise? What physical sensations do you notice? Do you feel warmth, sadness, neutrality? Just name whatever comes up without judgment. \n\nThen, try writing down three things that have changed *since* that memory was created. These changes don\u2019t have to be monumental; they can be small shifts in your perspective or circumstances. This exercise isn't about reliving the past; it's about acknowledging the distance and understanding the context of that distance. It's about recognizing that you are not the same person you were then, and that's okay. This isn't about fixing anything; it's about understanding where you are now in relation to where you've been.\n\nEmotional distance isn\u2019t a sign of something being wrong. It's often a sign of life happening \u2013 of growth, change, and adaptation. Acknowledging it can offer valuable insight into your own evolving emotional landscape.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-07.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-07T09:30:59.280230+00:00",
+  "local_sha256": "2b08a751a07753d0c8a549f4395fd28a5989ea89f399bdd5a37a79c3bb4aff4e",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-07T09:31:08.017253+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2229285,
+    "feed_size": 144098,
+    "local_sha256": "2b08a751a07753d0c8a549f4395fd28a5989ea89f399bdd5a37a79c3bb4aff4e",
+    "public_sha256": "2b08a751a07753d0c8a549f4395fd28a5989ea89f399bdd5a37a79c3bb4aff4e",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-07.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "2b08a751a07753d0c8a549f4395fd28a5989ea89f399bdd5a37a79c3bb4aff4e",
+    "public_sha256": "2b08a751a07753d0c8a549f4395fd28a5989ea89f399bdd5a37a79c3bb4aff4e",
+    "byte_identity": "VERIFIED"
+  }
+}
