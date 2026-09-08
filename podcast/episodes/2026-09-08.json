@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 Noticing those gaps \u2013 those small pockets of time between activities,...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-08.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-08.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 236,
+  "size_bytes": 2276589,
+  "created_at": "2026-09-08T09:30:23.076839+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-08T09:30:29.167459+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-08.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 Noticing those gaps \u2013 those small pockets of time between activities,...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 Noticing those gaps \\u2013 those sma\", \"content\": \"Today\\u2019s exploration is about noticing those gaps \\u2013\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp2/22149388/2026-09-08.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today\u2019s exploration is about noticing those gaps \u2013 those small pockets of time between activities, between thoughts, between interactions. We often fill them automatically, reaching for a distraction. But what if, instead of filling them, we simply *noticed* them? What potential might be held in those seemingly empty spaces? This isn\u2019t about productivity or optimization, but about a different kind of awareness.\n\n--- Transcript ---\n\nTITLE: The Empty Coffee Cup\n\nHave you ever noticed how quickly a moment can pass when you\u2019re truly engaged\u2026 and how slowly time stretches when you\u2019re waiting?\n\nToday\u2019s exploration is about noticing those gaps \u2013 those small pockets of time between activities, between thoughts, between interactions. We often fill them automatically, reaching for a distraction. But what if, instead of filling them, we simply *noticed* them? What potential might be held in those seemingly empty spaces? This isn\u2019t about productivity or optimization, but about a different kind of awareness.\n\nImagine someone finishing a cup of coffee. They\u2019ve been working, focused on a task, and the coffee was almost an afterthought. They finish the last sip, set the cup down, and immediately reach for their phone. Scroll, scroll, scroll. Another task begins. Now imagine a different scenario. The same person finishes their coffee, sets the cup down\u2026and pauses. They notice the warmth lingering in their hands. They hear the quiet hum of the refrigerator. They feel the chair supporting their weight. It's not a grand revelation, just a moment of stillness before moving on. The difference isn\u2019t in *what* happens next, but in *how* it\u2019s experienced.\n\nOur brains are remarkably efficient at creating continuity. We connect one thing to the next, constantly seeking to avoid what feels like emptiness or inactivity. This isn\u2019t inherently bad; it\u2019s how we function. However, this drive for continuity can lead us to miss opportunities for reflection and self-awareness. Those small gaps \u2013 the moments between \u2013 are where we can check in with ourselves. How are we *actually* feeling? What are we anticipating? What needs aren\u2019t being met? \n\nThese gaps aren't voids to be filled; they're thresholds. Thresholds between doing and being. When we consistently rush to fill them, we can lose touch with our internal experience. We can become reactive rather than responsive. It's easy to get caught in a cycle of external stimulation, constantly seeking something to occupy our attention. This isn\u2019t about judging that impulse \u2013 it\u2019s simply about recognizing it. \n\nAnother aspect to consider is that discomfort with stillness is often linked to avoiding difficult emotions. If we allow ourselves to simply *be* in a moment, without distraction, we might encounter feelings we\u2019d rather not face. That\u2019s understandable. But consistently avoiding these feelings can prevent us from processing them in healthy ways.\n\nLet\u2019s try a small exercise. Throughout today, intentionally create a few of these \u201cempty cup\u201d moments. It doesn\u2019t need to be long \u2013 even five to ten seconds can be impactful. Choose a mundane transition: waiting for water to boil, walking between rooms, or finishing a meal. When you reach that transition point, instead of immediately reaching for your phone or starting another task, pause. Close your eyes if that feels comfortable, or simply soften your gaze. Notice three things: what you hear, what you feel physically (the sensation of your feet on the floor, the temperature of the air), and what thoughts are present without judgment \u2013 simply observe them as they arise and pass. \n\nYou don\u2019t need to analyze these observations or change anything. The goal is simply to practice noticing the space between experiences. You might find it initially uncomfortable or even frustrating. That's okay. It takes practice to become comfortable with stillness. Start small and be patient with yourself. Over time, you may find that these moments of pause become opportunities for clarity and a greater sense of presence in your daily life. Consider making it a habit to create one intentional pause each morning or evening as a gentle anchor in your day.\n\nThe ability to tolerate and appreciate these small gaps is a skill that can be cultivated with practice. It\u2019s about recognizing that you don\u2019t always need to *do* something to *be* something. Sometimes, simply noticing is enough.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-08.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-08T09:30:29.236028+00:00",
+  "local_sha256": "c24a0e1494cd13c5e933f9a0d391c9df24308325a66fa382b6991211e3a895d1",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-08T09:30:37.559624+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2276589,
+    "feed_size": 149208,
+    "local_sha256": "c24a0e1494cd13c5e933f9a0d391c9df24308325a66fa382b6991211e3a895d1",
+    "public_sha256": "c24a0e1494cd13c5e933f9a0d391c9df24308325a66fa382b6991211e3a895d1",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-08.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "c24a0e1494cd13c5e933f9a0d391c9df24308325a66fa382b6991211e3a895d1",
+    "public_sha256": "c24a0e1494cd13c5e933f9a0d391c9df24308325a66fa382b6991211e3a895d1",
+    "byte_identity": "VERIFIED"
+  }
+}
