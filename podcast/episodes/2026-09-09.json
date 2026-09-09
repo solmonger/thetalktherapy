@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 Noticing those small signals, particularly the ones that relate to how we...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-09.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-09.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 233,
+  "size_bytes": 2222781,
+  "created_at": "2026-09-09T09:30:45.484545+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-09T09:30:51.669130+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-09.mp3 (2.1 MB)\n  Title: The Talk Therapy \u2014 Noticing those small signals, particularly the ones that relate to how we...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 Noticing those small signals, p\", \"content\": \"We often talk about grand gestures when it comes t\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp3/22149388/2026-09-09.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "We often talk about grand gestures when it comes to self-care or relationship building. Big trips, major life changes, sweeping apologies. But often, it\u2019s the consistent, small things that truly make a difference. Today\u2019s exploration is about noticing those small signals, particularly the ones that relate to how we allocate our time and attention. It\u2019s about recognizing when something feels\u2026off, and understanding that feeling is a valid piece of information.\n\n--- Transcript ---\n\nTITLE: The Kitchen Timer\n\n(Sound of a kitchen timer dinging, then fading slightly)\nSometimes, the smallest signals can point to something bigger.\n\nWe often talk about grand gestures when it comes to self-care or relationship building. Big trips, major life changes, sweeping apologies. But often, it\u2019s the consistent, small things that truly make a difference. Today\u2019s exploration is about noticing those small signals, particularly the ones that relate to how we allocate our time and attention. It\u2019s about recognizing when something feels\u2026off, and understanding that feeling is a valid piece of information.\n\nImagine a person who consistently agrees to help others, even when their own schedule is already full. A friend asks for assistance with a project, a neighbor needs a ride, a family member wants help with a task. This person always says yes. On the surface, it seems generous, helpful. But underneath, they\u2019re starting to feel increasingly resentful and exhausted. They notice they\u2019re snapping at their partner, losing interest in hobbies, and generally feeling overwhelmed. They don't realize it, but every \u201cyes\u201d to someone else is a small \u201cno\u201d to themselves. The kitchen timer serves as a metaphor: each task is a little ding, and the constant dinging is becoming unbearable.\n\nThis scenario highlights something important about boundaries and self-awareness. Boundaries aren\u2019t about building walls; they\u2019re about defining where *you* begin and *others* end. They're about recognizing your own limits \u2013 your time, energy, emotional capacity \u2013 and communicating those limits respectfully. When boundaries are weak or nonexistent, resentment often builds. It\u2019s a natural consequence of consistently prioritizing others' needs over your own. \n\nAnother key aspect is the importance of paying attention to your internal signals. That feeling of overwhelm, the irritability, the loss of interest \u2013 these aren't random occurrences. They are your system telling you something needs to shift. Many people are conditioned to ignore these signals, to push through discomfort, to prioritize being \u201chelpful\u201d above all else. However, consistently ignoring these signals can lead to burnout and strained relationships.\n\nFinally, consider the concept of \u201ctime debt.\u201d Each time you overextend yourself, you accumulate this debt. It's not a financial debt, but an energetic one. You\u2019re borrowing from your future self, and eventually, the bill comes due in the form of exhaustion, frustration, or even physical illness. Recognizing this pattern allows for a more conscious approach to how time is spent.\n\nLet\u2019s try a small exercise called \u201cThe Timer Check-In.\u201d For the next week, whenever you agree to something new \u2013 whether it\u2019s a request from a friend, a commitment at work, or even an activity you plan for yourself \u2013 pause for just ten seconds. Imagine a kitchen timer starting. During those ten seconds, ask yourself three questions: 1) Do I genuinely *want* to do this? 2) Do I have the capacity \u2013 time and energy \u2013 to do this *without* sacrificing my own well-being? 3) If I say \u201cyes,\u201d what am I saying \u201cno\u201d to?\n\nYou don\u2019t need to overanalyze; just notice your initial gut reaction. It\u2019s okay to say \u201cyes,\u201d but do so consciously and with awareness of the trade-offs. And it\u2019s perfectly acceptable \u2013 even healthy \u2013 to say \u201cno.\u201d You can practice saying something simple like, \u201cThat sounds lovely, but my plate is full right now.\u201d or \u201cThank you for thinking of me, but I\u2019m not able to take that on at the moment.\u201d The goal isn't to eliminate all commitments; it\u2019s to bring intentionality to your choices and protect your boundaries.\n\nPaying attention to those small signals \u2013 like the metaphorical ding of a kitchen timer \u2013 can be profoundly empowering. It allows you to live more authentically and build relationships based on mutual respect and genuine connection. Remember, taking care of yourself isn\u2019t selfish; it\u2019s essential.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-09.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-09T09:30:51.734087+00:00",
+  "local_sha256": "5ec2ad8a886c0f12303efdd10c59a9a1e10a9e3d7c89d30e661f3cba016055f0",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-09T09:31:00.195893+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2222781,
+    "feed_size": 154437,
+    "local_sha256": "5ec2ad8a886c0f12303efdd10c59a9a1e10a9e3d7c89d30e661f3cba016055f0",
+    "public_sha256": "5ec2ad8a886c0f12303efdd10c59a9a1e10a9e3d7c89d30e661f3cba016055f0",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-09.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "5ec2ad8a886c0f12303efdd10c59a9a1e10a9e3d7c89d30e661f3cba016055f0",
+    "public_sha256": "5ec2ad8a886c0f12303efdd10c59a9a1e10a9e3d7c89d30e661f3cba016055f0",
+    "byte_identity": "VERIFIED"
+  }
+}
