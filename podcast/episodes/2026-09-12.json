@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The subtle weight of unacknowledged expectations \u2013 not the big ones like...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-12.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-12.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 253,
+  "size_bytes": 2421765,
+  "created_at": "2026-09-12T09:30:13.518012+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-12T09:30:19.794273+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-12.mp3 (2.3 MB)\n  Title: The Talk Therapy \u2014 The subtle weight of unacknowledged expectations \u2013 not the big ones like...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The subtle weight of unacknowle\", \"content\": \"This is Talk Therapy. Today, we\\u2019re looking at the \", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-09-12.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is Talk Therapy. Today, we\u2019re looking at the subtle weight of unacknowledged expectations \u2013 not the big ones like career goals or relationship milestones, but the smaller, often unspoken ones we hold for ourselves and others. These can create friction in daily life, leaving us feeling vaguely dissatisfied even when things are objectively okay. We\u2019ll explore where these expectations come from, how they impact our interactions, and a small step you can take to manage them.\n\n--- Transcript ---\n\nTITLE: The Second Shelf\n\nHave you ever noticed how things tend to accumulate? Not just possessions, but\u2026expectations. Little ones, mostly unnoticed, piling up.\n\nThis is Talk Therapy. Today, we\u2019re looking at the subtle weight of unacknowledged expectations \u2013 not the big ones like career goals or relationship milestones, but the smaller, often unspoken ones we hold for ourselves and others. These can create friction in daily life, leaving us feeling vaguely dissatisfied even when things are objectively okay. We\u2019ll explore where these expectations come from, how they impact our interactions, and a small step you can take to manage them.\n\nImagine someone preparing for a casual dinner with a friend. They spend a little extra time tidying up, not because they want to impress, but because they have a quiet expectation that the friend will offer to help with dishes. It\u2019s not a demand, just a little thought: *it would be nice if they offered*. The friend arrives, they enjoy the meal, and then leaves without mentioning the dishes, or offering to assist. Our person doesn't say anything either, doesn't want to seem rude or demanding. But inside, there\u2019s a small sting. It\u2019s not anger, not disappointment exactly\u2026 just a feeling of being slightly unseen, a little expectation unmet. This isn\u2019t about the dishes themselves; it\u2019s about the unacknowledged exchange of consideration. It\u2019s a small scenario, but it illustrates how easily these expectations can color our experiences.\n\nThese kinds of expectations often originate in patterns we\u2019ve observed \u2013 in our families growing up, in media portrayals of relationships, even in simple repeated interactions. We learn, often subconsciously, what feels \u201cnormal\u201d or \u201cright\u201d in certain situations. And when reality deviates from that internal blueprint, it can create discomfort. It\u2019s important to understand that having expectations isn't inherently *bad*. They can be useful shortcuts, helping us navigate social situations efficiently. The problem arises when these expectations are uncommunicated and rigid.\n\nAnother key factor is projection. We often assume others share our values, beliefs, and understandings of social cues. We might expect someone to know we need space after a long day without actually *telling* them. This is rarely malicious; it's simply a cognitive shortcut. We assume our internal world is somewhat mirrored in others.\n\nFinally, consider the role of control. Unmet expectations can trigger a feeling of lost control. We feel like something *should* have happened a certain way, and when it doesn\u2019t, it can feel unsettling. Recognizing this link between expectations and control can be a powerful first step toward acceptance. It\u2019s not about abandoning all expectations, but about understanding their origin and their potential impact.\n\nLet\u2019s try a small exercise. Think of one recent interaction that left you feeling slightly off \u2013 a small frustration, a vague sense of unease. Now, identify the expectation that wasn\u2019t met. Be specific. Was it an expectation of reciprocity? Of understanding? Of acknowledgment? Write it down: \u201cI expected [person] to [action].\u201d\n\nNext, ask yourself *why* you held that expectation. Where did it come from? Was it based on past experiences? A personal value? A societal norm? Simply identifying the root of the expectation can lessen its power.\n\nFinally, consider what would have happened if you had communicated that expectation \u2013 not as a demand, but as a simple preference. \u201cIt would be really helpful if\u2026\u201d or \u201cI\u2019d appreciate it if\u2026\u201d This isn't about changing others; it's about taking ownership of your needs and creating clearer communication patterns. This exercise isn't about fixing the past interaction; it's about building awareness for future ones. It\u2019s about moving from unspoken assumptions to more intentional exchanges.\n\nThe accumulation of small, unmet expectations can weigh us down over time. By bringing awareness to these patterns and practicing clear communication, we can lighten the load and foster more fulfilling connections. That\u2019s all for this episode of Talk Therapy.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-12.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-12T09:30:19.865435+00:00",
+  "local_sha256": "3b404e7626fab688a0d51225958345544a02bf0474b7b90704e2507e15593c85",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-12T09:30:28.182382+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2421765,
+    "feed_size": 165557,
+    "local_sha256": "3b404e7626fab688a0d51225958345544a02bf0474b7b90704e2507e15593c85",
+    "public_sha256": "3b404e7626fab688a0d51225958345544a02bf0474b7b90704e2507e15593c85",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-12.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "3b404e7626fab688a0d51225958345544a02bf0474b7b90704e2507e15593c85",
+    "public_sha256": "3b404e7626fab688a0d51225958345544a02bf0474b7b90704e2507e15593c85",
+    "byte_identity": "VERIFIED"
+  }
+}
