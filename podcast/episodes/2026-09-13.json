@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 Those little disruptions, the minor frustrations that can unexpectedly feel...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-13.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-13.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 249,
+  "size_bytes": 2381853,
+  "created_at": "2026-09-13T09:30:38.909901+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-13T09:30:45.172842+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-13.mp3 (2.3 MB)\n  Title: The Talk Therapy \u2014 Those little disruptions, the minor frustrations that can unexpectedly feel...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 Those little disruptions, the m\", \"content\": \"Today we\\u2019re talking about those little disruptions\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp7/22149388/2026-09-13.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today we\u2019re talking about those little disruptions, the minor frustrations that can unexpectedly feel overwhelming. It\u2019s easy to dismiss these things \u2013 a delayed train, a spilled drink, a forgotten item. But sometimes, these seemingly insignificant events can trigger a larger emotional response. We\u2019ll explore why that happens and what you can do to navigate those moments with a little more ease. This isn\u2019t about eliminating frustration, but about understanding its source and responding thoughtfu\n\n--- Transcript ---\n\nTITLE: The Untied Shoelace\n\nHave you ever felt\u2026off balance? Like something small is throwing your whole day?\n\nToday we\u2019re talking about those little disruptions, the minor frustrations that can unexpectedly feel overwhelming. It\u2019s easy to dismiss these things \u2013 a delayed train, a spilled drink, a forgotten item. But sometimes, these seemingly insignificant events can trigger a larger emotional response. We\u2019ll explore why that happens and what you can do to navigate those moments with a little more ease. This isn\u2019t about eliminating frustration, but about understanding its source and responding thoughtfully.\n\nImagine someone is getting ready for an important meeting. They've prepared thoroughly, they know their material, and they feel reasonably confident. They\u2019re almost out the door when they notice it: an untied shoelace. It's a simple fix, but in that moment, it feels\u2026catastrophic. A wave of irritation washes over them. They\u2019re already running a little late, and this feels like a sign of things going wrong. They start to mentally rehearse all the things that could *now* happen \u2013 they\u2019ll trip, they\u2019ll be flustered in the meeting, they won't perform well. What began as a minor inconvenience quickly escalates into a feeling of anxiety and being unprepared. The shoelace isn't the problem; it's what the shoelace *represents*.\n\nThis reaction is surprisingly common. It highlights something called \u201cemotional flooding.\u201d Emotional flooding happens when we experience a sudden surge of intense feelings that overwhelm our ability to cope. Often, this isn\u2019t directly related to the triggering event itself. Instead, the event acts as a catalyst, bringing to the surface pre-existing stress, anxieties, or unresolved feelings. Think of it like a glass already mostly full of water. A single drop \u2013 the untied shoelace \u2013 causes it to overflow. \n\nAnother factor is our tendency towards \u201call-or-nothing thinking.\u201d This is where we see events as absolute successes or failures, without acknowledging the gray areas. The untied shoelace doesn\u2019t mean the entire meeting will be a disaster, but the initial reaction frames it that way. This kind of thinking amplifies the emotional impact. \n\nFinally, it's helpful to consider the role of control. When we feel like we lack control in other areas of our lives, we may become hyper-focused on controlling small details. An untied shoelace represents a loss of control, however minor, and can therefore feel disproportionately upsetting. Recognizing these patterns \u2013 emotional flooding, all-or-nothing thinking, and the need for control \u2013 is the first step toward managing them.\n\nHere\u2019s a simple exercise you can try when you find yourself reacting strongly to a small frustration. It's called \u201cName It to Tame It.\u201d When you notice the intense feeling \u2013 irritation, anxiety, frustration \u2013 pause for just a moment. Instead of immediately reacting or trying to fix the situation, simply name the emotion you're experiencing. Say to yourself, \u201cI am feeling frustrated right now.\u201d Or \u201cI am feeling anxious.\u201d \n\nThe act of labeling the emotion creates a small distance between you and the feeling itself. It acknowledges the emotion without getting caught up in it. Follow that up with a brief body scan. Notice where you feel the emotion in your body \u2013 is your jaw clenched? Are your shoulders tight? Again, just observe without judgment.\n\nFinally, remind yourself that this is a temporary state. Feelings are fluid; they come and go. The untied shoelace doesn\u2019t define your day or your abilities. You can tie the lace, and you can handle whatever comes next. This exercise takes practice, but with repetition, it can help you interrupt the cycle of emotional flooding and respond to small frustrations with more calm and perspective. You don't need to solve the problem immediately; just acknowledge the feeling first.\n\nRemember, it's okay to feel frustrated or overwhelmed sometimes. These are natural human responses. By understanding the underlying reasons for those reactions and practicing simple tools like \u201cName It to Tame It,\u201d you can build resilience and navigate life\u2019s little disruptions with greater ease.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-13.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-13T09:30:45.240767+00:00",
+  "local_sha256": "9041406f25a78cc82bf2a17d1665737a2f0a7980263d58dd6f4ddca6bac98fc5",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-13T09:30:53.078738+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2381853,
+    "feed_size": 171068,
+    "local_sha256": "9041406f25a78cc82bf2a17d1665737a2f0a7980263d58dd6f4ddca6bac98fc5",
+    "public_sha256": "9041406f25a78cc82bf2a17d1665737a2f0a7980263d58dd6f4ddca6bac98fc5",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-13.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "9041406f25a78cc82bf2a17d1665737a2f0a7980263d58dd6f4ddca6bac98fc5",
+    "public_sha256": "9041406f25a78cc82bf2a17d1665737a2f0a7980263d58dd6f4ddca6bac98fc5",
+    "byte_identity": "VERIFIED"
+  }
+}
