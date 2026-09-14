@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 Intention, expectation, and what happens when things don't unfold as planned",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-14.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-14.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 250,
+  "size_bytes": 2394141,
+  "created_at": "2026-09-14T09:30:47.856677+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-14T09:30:54.118106+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-14.mp3 (2.3 MB)\n  Title: The Talk Therapy \u2014 Intention, expectation, and what happens when things don't unfold as planned\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 Intention, expectation, and wha\", \"content\": \"This is a space to explore everyday emotional expe\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp1/22149388/2026-09-14.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is a space to explore everyday emotional experiences, the small moments that shape how we feel and interact with the world. Today, we\u2019ll be thinking about intention, expectation, and what happens when things don't unfold as planned. It\u2019s about acknowledging the difference between aiming for something and controlling the outcome. It's about the space between effort and result.\n\n--- Transcript ---\n\nTITLE: The Paper Airplane\n\nHave you ever put a lot of effort into something, only to have it\u2026not quite fly?\n\nThis is a space to explore everyday emotional experiences, the small moments that shape how we feel and interact with the world. Today, we\u2019ll be thinking about intention, expectation, and what happens when things don't unfold as planned. It\u2019s about acknowledging the difference between aiming for something and controlling the outcome. It's about the space between effort and result.\n\nImagine someone spends an afternoon carefully crafting a paper airplane. They fold with precision, adjusting the wings, testing the balance. They envision it soaring across a large room, a perfect flight. They throw it, and it dips immediately, landing just a few feet away. There\u2019s a moment of disappointment. Not because the airplane *failed*, but because the expectation of a perfect flight wasn't met. It\u2019s easy to feel frustrated when something we put effort into doesn\u2019t perform as anticipated. This can happen with larger things too \u2013 a project at work, a conversation with a partner, even just trying to have a relaxing weekend. \n\nThis experience touches on a few key ideas. Firstly, it highlights the difference between control and influence. We can control our effort \u2013 the careful folding, the planning, the intention behind the throw. But we can\u2019t control external factors like air currents, or the paper\u2019s slight imperfections. Applying this to life, we can focus on putting in our best effort, but accepting that outcomes aren\u2019t always within our grasp. \n\nSecondly, it brings up expectations. Often, our disappointment isn\u2019t about the outcome itself, but about the gap between what we *expected* and what *actually* happened. Unrealistic expectations can set us up for repeated frustration. It's not about abandoning hope or lowering standards entirely; it's about grounding expectations in reality, acknowledging potential obstacles and uncertainties. A perfect flight is nice to imagine, but a flight of any distance is still a result of effort.\n\nFinally, this situation illustrates the value of flexibility. When the airplane doesn\u2019t fly as planned, you could crumple it up in frustration. Or you could analyze what happened \u2013 was a wing folded incorrectly? Was the throw off balance? \u2013 and try again, adjusting your approach. Life often requires this kind of adaptation. Things rarely go exactly as planned, and being able to adjust, to learn from setbacks, is a valuable skill.\n\nLet\u2019s try a small exercise to explore this idea of expectation and acceptance. Think of something you\u2019re currently working towards \u2013 a goal at work, a personal project, or even a conversation you\u2019ve been meaning to have. Now, write down your *ideal* outcome. Be specific. Then, underneath that, write down three realistic potential obstacles that could get in the way. Finally, for each obstacle, write down one small adjustment you could make if that obstacle arises. \n\nFor example: Ideal outcome - \u201cA successful presentation at work.\u201d Obstacle 1 \u2013 \u201cTechnical difficulties.\u201d Adjustment \u2013 \u201cHave a backup plan for slides.\u201d Obstacle 2 \u2013 \u201cAudience disengagement.\u201d Adjustment \u2013 \u201cPrepare more interactive elements.\u201d Obstacle 3 \u2013 \u201cTime constraints.\u201d Adjustment \u2013 \u201cPrioritize key points and be prepared to shorten the presentation.\u201d \n\nThis isn\u2019t about anticipating failure; it\u2019s about preparing yourself emotionally and practically for the possibility that things might not go exactly as planned. It's about shifting your focus from solely the outcome to also including the process of adapting and responding to whatever comes your way. This exercise can be revisited any time you find yourself feeling overwhelmed by expectations.\n\nRemembering that effort doesn\u2019t guarantee a specific outcome can be freeing. It allows us to focus on what *is* within our control and to approach challenges with more resilience and flexibility. It's okay if things don't fly perfectly on the first try \u2013 or even the tenth. The important thing is to keep learning and adjusting your approach.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-14.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-14T09:30:54.183575+00:00",
+  "local_sha256": "844b892f77cab444358251f63fdd4ea3ac266d0b0091179a2ec4efaf28fe26b4",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-14T09:31:02.384767+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2394141,
+    "feed_size": 175766,
+    "local_sha256": "844b892f77cab444358251f63fdd4ea3ac266d0b0091179a2ec4efaf28fe26b4",
+    "public_sha256": "844b892f77cab444358251f63fdd4ea3ac266d0b0091179a2ec4efaf28fe26b4",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-14.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "844b892f77cab444358251f63fdd4ea3ac266d0b0091179a2ec4efaf28fe26b4",
+    "public_sha256": "844b892f77cab444358251f63fdd4ea3ac266d0b0091179a2ec4efaf28fe26b4",
+    "byte_identity": "VERIFIED"
+  }
+}
