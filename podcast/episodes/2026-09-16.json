@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Half-Finished Puzzle",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-16.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-16.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 228,
+  "size_bytes": 2171325,
+  "created_at": "2026-09-16T09:30:02.530054+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-16T09:30:08.923179+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-16.mp3 (2.1 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Half-Finished Puzzle\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Half-Finished Puzzle\", \"content\": \"Today we\\u2019re going to explore that feeling. That se\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp3/22149388/2026-09-16.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today we\u2019re going to explore that feeling. That sense of being in the middle of something, knowing where you intended to go, but feeling unable to move forward. It\u2019s a common experience, and often signals something deeper than simple procrastination. It can relate to projects at work, personal goals, or even relationships. It\u2019s about the space between starting and finishing, and what that space can tell us.\n\n--- Transcript ---\n\nTITLE: The Half-Finished Puzzle\n\nHave you ever started something with enthusiasm, only to find yourself\u2026stuck? Not blocked, not frustrated, just\u2026stuck?\n\nToday we\u2019re going to explore that feeling. That sense of being in the middle of something, knowing where you intended to go, but feeling unable to move forward. It\u2019s a common experience, and often signals something deeper than simple procrastination. It can relate to projects at work, personal goals, or even relationships. It\u2019s about the space between starting and finishing, and what that space can tell us.\n\nImagine a friend decides to build a large jigsaw puzzle. A thousand pieces, a beautiful landscape. They lay out the edges, start filling in sections \u2013 the sky, a field of flowers. For the first few days, it's absorbing, enjoyable. Then, they hit a patch where pieces seem to fit anywhere and nowhere at the same time. They spend hours trying combinations, getting increasingly less satisfied with the results. The puzzle sits half-finished on their table for weeks, a constant reminder of something begun but not completed. It\u2019s not that they *can\u2019t* finish it; it\u2019s that the process has lost its initial appeal, and a subtle anxiety has crept in about making the \u201cwrong\u201d move.\n\nThis situation illustrates a few things about unfinished projects, and about life in general. First, the initial motivation is often different from the sustained effort required. The excitement of starting is fueled by possibility. The middle is fueled by\u2026well, by showing up consistently, even when it\u2019s less exciting. That shift can be surprisingly difficult. Second, perfectionism can be a powerful roadblock disguised as careful consideration. The fear of making a mistake \u2013 of putting a piece in the \u201cwrong\u201d place \u2013 can paralyze progress. It\u2019s easier to avoid making a decision than to risk being wrong. Finally, sometimes the puzzle itself isn\u2019t the problem. Sometimes it\u2019s what finishing the puzzle *represents*. Maybe completing it means acknowledging something else needs to change, or facing a future that feels uncertain. The unfinished puzzle becomes a way to avoid that bigger discomfort. It\u2019s important to remember that progress isn't always linear; it often involves periods of feeling stuck. These periods aren't failures; they're opportunities to reassess, adjust, and understand what's holding you back.\n\nLet\u2019s try a small exercise related to this idea. Think of something in your life that feels like that half-finished puzzle \u2013 a project, a goal, a conversation you\u2019ve been meaning to have. Don't pick something overwhelming; choose something relatively small. Now, instead of focusing on completing it, focus on identifying *one* tiny next step. Just one. Not the step that will solve everything, but the smallest possible action you can take to move it forward even slightly. For example, if it\u2019s a conversation you need to have with a partner, the next step might be simply writing down three points you want to discuss. If it\u2019s a creative project, it might be spending five minutes brainstorming ideas. If it\u2019s a physical task, it might be gathering the materials you need. The key is to make it so small that it feels almost impossible *not* to do it. Once you\u2019ve identified that step, schedule a specific time to do it \u2013 even if it\u2019s just for five minutes tomorrow morning. The goal isn\u2019t necessarily to finish the puzzle today; it\u2019s to break the feeling of being stuck and regain a sense of agency. Remember: small steps accumulate over time.\n\nBeing stuck is a normal part of life. Recognizing it, understanding why it happens, and taking small steps forward are all part of navigating those moments. It's about acknowledging the discomfort and choosing progress, however incremental.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-16.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-16T09:30:08.992067+00:00",
+  "local_sha256": "cd4b4d88e1511d7085a539a471f26ca560d237a256de7f42abda8c51dc3deef3",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-16T09:30:17.609915+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2171325,
+    "feed_size": 184996,
+    "local_sha256": "cd4b4d88e1511d7085a539a471f26ca560d237a256de7f42abda8c51dc3deef3",
+    "public_sha256": "cd4b4d88e1511d7085a539a471f26ca560d237a256de7f42abda8c51dc3deef3",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-16.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "cd4b4d88e1511d7085a539a471f26ca560d237a256de7f42abda8c51dc3deef3",
+    "public_sha256": "cd4b4d88e1511d7085a539a471f26ca560d237a256de7f42abda8c51dc3deef3",
+    "byte_identity": "VERIFIED"
+  }
+}
