@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The things we accumulate, not physical possessions necessarily, but also...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-18.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-18.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 229,
+  "size_bytes": 2178813,
+  "created_at": "2026-09-18T09:30:47.238612+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-18T09:30:53.520648+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-18.mp3 (2.1 MB)\n  Title: The Talk Therapy \u2014 The things we accumulate, not physical possessions necessarily, but also...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The things we accumulate, not p\", \"content\": \"Today, we\\u2019ll be talking about the things we accumu\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp5/22149388/2026-09-18.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019ll be talking about the things we accumulate, not physical possessions necessarily, but also habits, expectations, and even relationships that we continue to maintain long after they\u2019ve ceased to serve us. It\u2019s easy to get comfortable with the familiar, even if that familiar feels\u2026off. We'll explore why letting go can be difficult and how to begin recognizing what might be better left behind. This isn\u2019t about drastic change; it\u2019s about mindful assessment.\n\n--- Transcript ---\n\nTITLE: The Borrowed Mug\n\nHave you ever found yourself holding onto something not because you love it, but because it\u2019s\u2026just *there*?\n\nToday, we\u2019ll be talking about the things we accumulate, not physical possessions necessarily, but also habits, expectations, and even relationships that we continue to maintain long after they\u2019ve ceased to serve us. It\u2019s easy to get comfortable with the familiar, even if that familiar feels\u2026off. We'll explore why letting go can be difficult and how to begin recognizing what might be better left behind. This isn\u2019t about drastic change; it\u2019s about mindful assessment.\n\nImagine a friend has a favorite mug. It was a gift, perhaps, or purchased during a significant trip. Over time, the mug develops a small crack. It still *holds* liquid, technically. It doesn't leak, not yet. But using it requires a little extra care \u2013 a gentler grip, careful washing. Eventually, a newer, perfectly functional mug is given as a gift. But the original remains in use. Why? It\u2019s not the mug itself, really. It\u2019s the story attached to it. The memories. The hesitation to discard something with sentimental value. But that continued use, that extra care\u2026it\u2019s energy expended on something imperfect when a simpler option exists. This dynamic plays out in many areas of life, not just with kitchenware.\n\nOne reason we hold onto things is loss aversion \u2013 the tendency to feel the pain of a loss more strongly than the pleasure of an equivalent gain. Letting go of something feels like a loss, even if what we gain is peace of mind or increased energy. We overestimate the value of what we might be losing and underestimate the benefits of releasing it.\n\nAnother factor is sunk cost fallacy. We justify continuing something \u2013 a relationship, a project, a habit \u2013 because of the time, effort, or resources we\u2019ve already invested. \u201cI\u2019ve already put so much into this,\u201d we tell ourselves, \u201cI can\u2019t just stop now.\u201d But past investment doesn't dictate future value. It's crucial to evaluate the present and potential future, independent of what\u2019s already been spent.\n\nFinally, consider the role of identity. Sometimes, we define ourselves by what we do or what we have. Letting go of something can feel like letting go of a part of ourselves. A hobby we no longer enjoy might feel tied to who we *used* to be. A relationship that\u2019s run its course might feel like a rejection of our past choices. Recognizing this connection between objects or patterns and our self-perception is an important step toward releasing them.\n\nLet\u2019s try a small exercise. Take a moment to think of one area in your life where you feel like you\u2019re holding onto something that isn't quite serving you anymore. It could be a commitment, a routine, an expectation you have of yourself or another person, or even a physical item. \n\nNow, without judgment, list three reasons why you're holding onto it. Be honest with yourself. Is it loss aversion? Sunk cost? Identity? Something else? \n\nNext, list three potential benefits of letting it go. What space would it create? What energy would be freed up? What new possibilities might emerge? \n\nYou don't need to make a decision right now. This is simply an exercise in awareness. The goal is to start noticing these patterns in your own life and to challenge the assumptions that keep you clinging to things that no longer support your well-being. Remember, acknowledging the difficulty is part of the process. It\u2019s okay to feel conflicted; it's natural to feel attached.\n\nSometimes, allowing ourselves to release what no longer fits creates space for something new and more aligned with who we are becoming. It's not about discarding the past, but about intentionally shaping the future. Consider what you might gently put down today.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-18.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-18T09:30:53.590024+00:00",
+  "local_sha256": "e2092934fbb5304ad7a4919ece9cca36fd7794542ca64d346c8256adcf23410e",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-18T09:31:02.203502+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2178813,
+    "feed_size": 195424,
+    "local_sha256": "e2092934fbb5304ad7a4919ece9cca36fd7794542ca64d346c8256adcf23410e",
+    "public_sha256": "e2092934fbb5304ad7a4919ece9cca36fd7794542ca64d346c8256adcf23410e",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-18.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "e2092934fbb5304ad7a4919ece9cca36fd7794542ca64d346c8256adcf23410e",
+    "public_sha256": "e2092934fbb5304ad7a4919ece9cca36fd7794542ca64d346c8256adcf23410e",
+    "byte_identity": "VERIFIED"
+  }
+}
