@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Wobbly Table",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-19.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-19.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 251,
+  "size_bytes": 2397405,
+  "created_at": "2026-09-19T09:30:06.956890+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-19T09:30:13.131477+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-19.mp3 (2.3 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Wobbly Table\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Wobbly Table\", \"content\": \"Today, we\\u2019re going to explore the idea of subtle i\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-09-19.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019re going to explore the idea of subtle instability, not in physical objects, but in our routines, expectations, and relationships. We often focus on big, dramatic changes when things feel off, but sometimes it's the tiny, unnoticed wobbles that create the most disruption. This isn\u2019t about fixing things immediately, but about recognizing these imbalances and understanding their impact.\n\n--- Transcript ---\n\nTITLE: The Wobbly Table\n\nHave you ever noticed how small imbalances can throw everything off? It\u2019s a surprisingly common experience.\n\nToday, we\u2019re going to explore the idea of subtle instability, not in physical objects, but in our routines, expectations, and relationships. We often focus on big, dramatic changes when things feel off, but sometimes it's the tiny, unnoticed wobbles that create the most disruption. This isn\u2019t about fixing things immediately, but about recognizing these imbalances and understanding their impact.\n\nImagine someone who consistently takes on extra tasks at work, not because they want to, but because it feels easier than saying no. They might initially feel helpful and competent. But over time, this pattern creates a quiet imbalance. They become increasingly stressed, have less time for personal commitments, and start to feel resentful, even though no one specifically *asked* them to do more. It\u2019s not a huge crisis; there\u2019s no yelling or dramatic confrontation. It's just a gradual tilting, like a table with one leg slightly shorter than the others. Everything still *seems* okay on the surface, but it requires constant, unconscious effort to keep things from falling over. This feeling of constantly correcting for an imbalance can be exhausting, and often goes unnoticed for a long time.\n\nThis scenario illustrates a few key points. Firstly, imbalances often arise from unspoken dynamics or internal patterns. The need to please, fear of conflict, or simply a habit of over-commitment can all contribute. Secondly, these imbalances are rarely about the *task* itself, but about the *pattern* surrounding it. It's not about whether taking on extra work is inherently bad, but about the consistent lack of reciprocity or boundaries. And finally, ignoring these small wobbles doesn't make them disappear. They tend to amplify over time, leading to increased stress, resentment, and ultimately, a more significant disruption.\n\nIt\u2019s important to recognize that imbalance isn't always negative. Sometimes a deliberate shift in effort is necessary \u2013 for example, spending extra time supporting a partner during a difficult period. The key difference is intentionality and temporality. A temporary adjustment isn\u2019t the same as a chronic pattern that leaves one person consistently off-balance. A healthy system allows for adjustments, but also for a return to equilibrium.\n\nOften we assume stability looks like a perfectly level surface. But real stability comes from recognizing the inevitable wobbles and having the tools to adjust \u2013 not to eliminate them entirely, but to manage them effectively.\n\nLet\u2019s try a small exercise to identify potential imbalances in your own life. Take a moment to think about one recurring situation where you consistently feel slightly\u2026off. It could be a relationship dynamic, a work habit, or even something related to your self-care routine. \n\nNow, without trying to *fix* it, simply list three observations about this situation. Focus on factual descriptions \u2013 what happens consistently? What role do you play? What role does the other person play? Avoid judgments or interpretations at this stage; just observe. For example: \u201cI consistently offer to take notes in meetings.\u201d \u201cMy partner consistently initiates weekend plans.\u201d \u201cI consistently skip my morning walk when I feel behind on work.\u201d\n\nOnce you have your three observations, ask yourself: What small adjustment could bring this situation closer to balance? Again, this isn\u2019t about radical change. It could be as simple as saying \u201cI\u2019m happy to take notes this time, but could someone else do it next time?\u201d or suggesting \u201cLet\u2019s alternate planning weekends.\u201d or scheduling your walk *before* checking emails. The goal is to identify one tiny step you can take to reduce the wobble.\n\nRemember, recognizing imbalance is the first step towards creating a more sustainable and fulfilling life. It\u2019s not about achieving perfect balance \u2013 that\u2019s unrealistic \u2013 but about becoming more aware of the subtle shifts that impact your well-being.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-19.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-19T09:30:13.201056+00:00",
+  "local_sha256": "86bdb22559c3fa122753d772f2707db5f08046becc89b29abca1679b121d1fa0",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-19T09:30:21.869749+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2397405,
+    "feed_size": 200930,
+    "local_sha256": "86bdb22559c3fa122753d772f2707db5f08046becc89b29abca1679b121d1fa0",
+    "public_sha256": "86bdb22559c3fa122753d772f2707db5f08046becc89b29abca1679b121d1fa0",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-19.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "86bdb22559c3fa122753d772f2707db5f08046becc89b29abca1679b121d1fa0",
+    "public_sha256": "86bdb22559c3fa122753d772f2707db5f08046becc89b29abca1679b121d1fa0",
+    "byte_identity": "VERIFIED"
+  }
+}
