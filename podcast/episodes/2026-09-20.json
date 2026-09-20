@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy - 2026-09-20",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-20.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-20.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 241,
+  "size_bytes": 2297685,
+  "created_at": "2026-09-20T09:30:33.069278+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-20T09:30:39.348766+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-20.mp3 (2.2 MB)\n  Title: The Talk Therapy - 2026-09-20\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy - 2026-09-20\", \"content\": \"We often focus on big life events \\u2013 job changes, m\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp7/22149388/2026-09-20.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "We often focus on big life events \u2013 job changes, moves, relationship milestones. But it's the accumulation of smaller, daily disruptions that can really impact our sense of calm and control. Losing keys, misplacing a phone, forgetting an appointment\u2026 these aren\u2019t major crises, but they contribute to a feeling of being off-balance. This isn\u2019t about efficiency; it\u2019s about the emotional weight we assign to these everyday occurrences.\n\n--- Transcript ---\n\nTITLE: The Lost Key\n\nHave you ever spent ten minutes looking for something you *just* had? That feeling of frustration, that little spike of panic? Today, we\u2019ll talk about what that experience can tell us about how we manage \u2013 or *don\u2019t* manage \u2013 small losses in our lives.\n\nWe often focus on big life events \u2013 job changes, moves, relationship milestones. But it's the accumulation of smaller, daily disruptions that can really impact our sense of calm and control. Losing keys, misplacing a phone, forgetting an appointment\u2026 these aren\u2019t major crises, but they contribute to a feeling of being off-balance. This isn\u2019t about efficiency; it\u2019s about the emotional weight we assign to these everyday occurrences.\n\nImagine someone preparing for a simple evening out. They\u2019ve made dinner reservations with a partner, are looking forward to a quiet meal, and are almost ready to leave. Then they realize they can\u2019t find their wallet. Not a huge problem, logically. They can cancel the reservation, order in. But the search begins. Drawers are emptied, coats are checked, bags are rummaged through. The initial annoyance quickly escalates to frustration, then to a feeling of being completely derailed. The evening\u2019s anticipation is replaced by a growing sense of irritation and a feeling of being unprepared. It\u2019s not the wallet itself; it's the disruption to the planned experience.\n\nThis reaction \u2013 a disproportionate response to a minor inconvenience \u2013 is often linked to something deeper. One factor is the idea of perceived control. We like to believe we have a handle on our lives, that things will go as planned. When something small goes \u201cwrong,\u201d it can feel like a crack in that illusion of control. It\u2019s a reminder that life is inherently unpredictable.\n\nAnother aspect is the concept of mental bandwidth. Our brains have a limited capacity for handling stress and tasks. When we\u2019re already feeling overwhelmed, even small disruptions can feel monumental because they require more cognitive resources than we have readily available. Think of it like a computer running multiple programs \u2013 adding one more can cause it to slow down or even crash.\n\nFinally, consider the narrative we create around these events. Do we tell ourselves \u201cI\u2019m so disorganized!\u201d or \u201cThis *always* happens to me?\u201d These negative self-statements amplify the frustration and reinforce a sense of helplessness. Our internal dialogue shapes our experience far more than the event itself. It\u2019s not about *what* happened, but *how* we interpret it.\n\nHere\u2019s a simple exercise to try when you find yourself getting disproportionately upset by a small loss or inconvenience. It's called \u201cLabel, Validate, Redirect.\u201d First, *label* the emotion you're feeling. Instead of just feeling frustrated, say to yourself, \u201cI am feeling frustrated right now.\u201d Naming the emotion creates some distance from it.\n\nNext, *validate* that feeling. Acknowledge that it's okay to be annoyed or inconvenienced. Don\u2019t judge yourself for feeling the way you do. You might say something like, \u201cIt\u2019s understandable that I feel frustrated when my plans are disrupted.\u201d\n\nFinally, *redirect* your focus. Consciously shift your attention to something else \u2013 take a few deep breaths, listen to a song, or focus on a simple task. The goal isn't to eliminate the feeling entirely, but to prevent it from spiraling into something bigger. This is about acknowledging the small disruption without letting it hijack your entire emotional state. Practice this with something minor today \u2013 a delayed email, a spilled drink \u2013 and see if it helps you respond with more equanimity. Remember, it's a skill that requires practice.\n\nSmall losses are inevitable. Learning to navigate them with self-compassion and a bit of perspective can make a significant difference in your overall well-being. It's not about avoiding frustration altogether, but about managing your reaction to it.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-20.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-20T09:30:39.417909+00:00",
+  "local_sha256": "16cf5e5027c02b90f55d8d2f5e63357cf446cd27ff3678a3efc068d46d6dd74e",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-20T09:30:47.722955+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2297685,
+    "feed_size": 205704,
+    "local_sha256": "16cf5e5027c02b90f55d8d2f5e63357cf446cd27ff3678a3efc068d46d6dd74e",
+    "public_sha256": "16cf5e5027c02b90f55d8d2f5e63357cf446cd27ff3678a3efc068d46d6dd74e",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-20.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "16cf5e5027c02b90f55d8d2f5e63357cf446cd27ff3678a3efc068d46d6dd74e",
+    "public_sha256": "16cf5e5027c02b90f55d8d2f5e63357cf446cd27ff3678a3efc068d46d6dd74e",
+    "byte_identity": "VERIFIED"
+  }
+}
