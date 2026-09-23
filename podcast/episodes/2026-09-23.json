@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 Sound of rapid-fire notification dings, then abruptly stops.",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-23.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-23.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 240,
+  "size_bytes": 2297637,
+  "created_at": "2026-09-23T09:30:06.744498+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-23T09:30:08.058540+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-23.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 Sound of rapid-fire notification dings, then abruptly stops.\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 Sound of rapid-fire notificatio\", \"content\": \"We often talk about managing big life changes, sig\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp3/22149388/2026-09-23.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "We often talk about managing big life changes, significant relationships, or major career decisions. But sometimes, the everyday pressures \u2013 the constant stream of small demands \u2013 can feel just as overwhelming. Today, we\u2019ll explore a common experience: feeling overloaded, not by one enormous task, but by a multitude of minor ones. This feeling can impact our energy, our focus, and our sense of control. It\u2019s about the cumulative effect of \u201ctoo much,\u201d and how to begin to address it.\n\n--- Transcript ---\n\nTITLE: The Overflowing Inbox\n\nSound of rapid-fire notification dings, then abruptly stops.\n\nWe often talk about managing big life changes, significant relationships, or major career decisions. But sometimes, the everyday pressures \u2013 the constant stream of small demands \u2013 can feel just as overwhelming. Today, we\u2019ll explore a common experience: feeling overloaded, not by one enormous task, but by a multitude of minor ones. This feeling can impact our energy, our focus, and our sense of control. It\u2019s about the cumulative effect of \u201ctoo much,\u201d and how to begin to address it.\n\nImagine someone who consistently volunteers to help. They say yes to every request at work, offer to assist friends with projects, and readily take on family commitments. On the surface, this seems positive \u2013 a helpful, generous person. But over time, this individual finds themselves constantly behind, feeling stressed and resentful, even though none of the individual tasks are particularly difficult. They check their email constantly, dreading the next request. They\u2019ve become reactive, simply responding to what comes in, rather than proactively managing their time and energy. It\u2019s not a lack of ability; it\u2019s an overflow. The inbox \u2013 literal or metaphorical \u2013 is simply too full. This isn't about the tasks themselves, but the *pattern* of accepting everything without boundaries.\n\nThis experience highlights a few key dynamics. First, the illusion of control. Saying \u201cyes\u201d can feel empowering in the moment, like we\u2019re actively solving problems. But consistently overcommitting actually *reduces* our control, because we\u2019re constantly responding to external demands instead of prioritizing our own needs. Second, the impact of small stressors. Each individual request may seem minor, but their combined effect is significant. Chronic low-level stress depletes our resources more quickly than occasional intense stress. We underestimate how much energy is required to simply *consider* each request, even if we ultimately decline it. Finally, there's the connection between self-worth and helpfulness. For some, saying \u201cno\u201d feels selfish, leading them to prioritize others\u2019 needs over their own. This can create a cycle of overcommitment and resentment. It\u2019s important to remember that setting boundaries isn't about being unhelpful; it's about being sustainable. It\u2019s about recognizing that we can\u2019t effectively support others if we\u2019re depleted ourselves. A full cup is more useful than an empty one.\n\nLet's try a small exercise to begin addressing this feeling of overflow. It\u2019s called \u201cThe Three-Question Filter.\u201d The next time you\u2019re presented with a request \u2013 whether it\u2019s an email, a favor from a friend, or a new task at work \u2013 pause before responding. Ask yourself three questions: One, \u201cDo I genuinely *want* to do this?\u201d Not because you feel obligated, but because it aligns with your values or interests. Two, \u201cDo I have the *capacity* to do this well?\u201d Be honest about your current commitments and energy levels. And three, \u201cWhat would I have to *stop doing* in order to take this on?\u201d This forces you to consider the trade-offs involved. You don't need to respond immediately. Take some time to reflect on your answers. If the answers aren\u2019t a clear \u201cyes\u201d across the board, it\u2019s okay \u2013 and often necessary \u2013 to decline or negotiate. You might say something like, \"That sounds interesting, but my plate is full right now.\" Or \"I can help with that next week when I have more bandwidth.\" Remember: Saying \"no\" is a complete sentence. Start small. Practice this filter with less significant requests first to build your confidence.\n\nFeeling overwhelmed by a multitude of small demands is a common experience. It's a signal that your boundaries may need attention. The Three-Question Filter is a starting point for reclaiming control and prioritizing your well-being. Recognizing the pattern of overcommitment is the first step towards creating a more balanced and sustainable life.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-23.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-23T09:30:08.115194+00:00",
+  "local_sha256": "cc751772fd072bc0342135e51498a47aaf8e583ab671c81984b1b3ad758d47ff",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-23T09:30:12.991020+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2297637,
+    "feed_size": 221465,
+    "local_sha256": "cc751772fd072bc0342135e51498a47aaf8e583ab671c81984b1b3ad758d47ff",
+    "public_sha256": "cc751772fd072bc0342135e51498a47aaf8e583ab671c81984b1b3ad758d47ff",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-23.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "cc751772fd072bc0342135e51498a47aaf8e583ab671c81984b1b3ad758d47ff",
+    "public_sha256": "cc751772fd072bc0342135e51498a47aaf8e583ab671c81984b1b3ad758d47ff",
+    "byte_identity": "VERIFIED"
+  }
+}
