@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 It, and how those feelings can show up in unexpected ways",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-28.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-28.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 245,
+  "size_bytes": 2334693,
+  "created_at": "2026-09-28T09:30:35.610683+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-28T09:30:36.810902+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-28.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 It, and how those feelings can show up in unexpected ways\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 It, and how those feelings can \", \"content\": \"This is a space to explore the everyday thoughts a\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp1/22149388/2026-09-28.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is a space to explore the everyday thoughts and feelings that shape our experiences. We often focus on large life events, but much of our emotional life exists in the small moments, the routines, the things we don\u2019t necessarily talk about. Today, we\u2019re considering how we relate to time, not in terms of productivity or deadlines, but in how we *feel* about it, and how those feelings can show up in unexpected ways.\n\n--- Transcript ---\n\nTITLE: The Kitchen Timer\n\n(Sound of a kitchen timer dinging, then fading slightly into background)\nSometimes, the smallest signals can point to something bigger going on beneath the surface.\n\nThis is a space to explore the everyday thoughts and feelings that shape our experiences. We often focus on large life events, but much of our emotional life exists in the small moments, the routines, the things we don\u2019t necessarily talk about. Today, we\u2019re considering how we relate to time, not in terms of productivity or deadlines, but in how we *feel* about it, and how those feelings can show up in unexpected ways.\n\nImagine someone who consistently sets a kitchen timer for tasks that don\u2019t really *need* a timer. Not for baking, not for something that will burn. But for things like\u2026 reading a chapter of a book. Or spending time on a hobby. Or even just sitting and having a cup of tea. At first glance, it might seem quirky, or even a little efficient. But over time, this habit reveals a pattern. It\u2019s not about getting things done; it\u2019s about creating a defined container for enjoyment. It\u2019s as if without the timer, the activity feels\u2026 limitless, and that limitlessness is unsettling.\n\nThis habit touches on a few common experiences. Firstly, it speaks to a discomfort with unstructured time. Many find it difficult to simply *be* without an agenda. Our culture often equates worth with productivity, so relaxing or pursuing pleasure can feel\u2026wrong, if not actively managed. The timer provides a permission slip, a way to justify taking time for oneself.\n\nSecondly, it illustrates how anxiety can manifest as control. The timer isn\u2019t about valuing the activity itself; it\u2019s about controlling the duration of the experience. This can be a way to manage underlying fears \u2013 fear of losing track of time, fear of being unproductive, or even fear of enjoying something *too* much. It\u2019s an attempt to preemptively contain potential negative feelings by setting boundaries, even when those boundaries aren\u2019t logically necessary. \n\nFinally, consider the idea of \u2018time blindness\u2019. While often discussed in relation to neurodiversity, many people struggle with accurately perceiving the passage of time. This can lead to feeling overwhelmed by commitments or losing oneself in activities for longer than intended. The timer becomes a tool for grounding oneself in the present moment and creating a sense of predictability. It's not necessarily a sign of a problem, but rather a strategy \u2013 one that might be worth examining more closely.\n\nLet\u2019s try a small exercise. Think of one activity you regularly engage in where you feel a subtle sense of unease or guilt \u2013 perhaps scrolling through social media, watching television, or simply daydreaming. Now, instead of trying to eliminate that activity (which can often backfire), try setting a timer for *less* time than you usually spend on it. For example, if you typically scroll for thirty minutes, set a timer for fifteen. \n\nNotice what happens. Do you feel more relaxed knowing there\u2019s a clear endpoint? Do you find yourself enjoying the activity more fully because it feels contained? Or do you feel restricted and anxious? Pay attention to your emotional response without judgment. The goal isn't to find the \"right\" amount of time, but to observe your relationship with time itself. \n\nRepeat this exercise with different activities and different time intervals. You might discover that shorter bursts of enjoyment are more satisfying than prolonged sessions. Or you might realize that the timer actually *increases* your anxiety and that you prefer to let the activity unfold naturally. The key is awareness \u2013 understanding how your internal experience shifts with different approaches to time management.\n\nThe kitchen timer is a small object, but it can reveal a lot about our inner world. Paying attention to these everyday signals can offer valuable insights into our habits and emotional patterns. Remember, self-awareness is the first step toward navigating life with greater ease and intention.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-28.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-28T09:30:36.871275+00:00",
+  "local_sha256": "42453d8bc8811f25a5fc4f656aadf71ca950bba64b22614d1a28b0324ef2c66f",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-28T09:30:42.161164+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2334693,
+    "feed_size": 247253,
+    "local_sha256": "42453d8bc8811f25a5fc4f656aadf71ca950bba64b22614d1a28b0324ef2c66f",
+    "public_sha256": "42453d8bc8811f25a5fc4f656aadf71ca950bba64b22614d1a28b0324ef2c66f",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-28.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "42453d8bc8811f25a5fc4f656aadf71ca950bba64b22614d1a28b0324ef2c66f",
+    "public_sha256": "42453d8bc8811f25a5fc4f656aadf71ca950bba64b22614d1a28b0324ef2c66f",
+    "byte_identity": "VERIFIED"
+  }
+}
