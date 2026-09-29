@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 How revisiting past experiences \u2013 even through something as simple as a...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-09-29.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-09-29.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 226,
+  "size_bytes": 2159373,
+  "created_at": "2026-09-29T09:30:36.085187+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-09-29T09:30:37.383468+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-09-29.mp3 (2.1 MB)\n  Title: The Talk Therapy \u2014 How revisiting past experiences \u2013 even through something as simple as a...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 How revisiting past experiences\", \"content\": \"Today, we\\u2019re talking about how revisiting past exp\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp2/22149388/2026-09-29.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019re talking about how revisiting past experiences \u2013 even through something as simple as a photograph \u2013 can bring up a lot. It's a natural human tendency to reflect, to assess where we are now in relation to where we\u2019ve been. But sometimes, that reflection isn\u2019t straightforward. It can feel tangled with regret, or a sense of disconnect, or even a surprising amount of peace. This isn\u2019t about changing the past, but understanding how our relationship *to* the past influences our present.\n\n--- Transcript ---\n\nTITLE: The Dusty Photograph\n\nHave you ever looked at an old photograph and felt\u2026a complicated mix of feelings? Not just nostalgia, but something a little harder to place?\n\nToday, we\u2019re talking about how revisiting past experiences \u2013 even through something as simple as a photograph \u2013 can bring up a lot. It's a natural human tendency to reflect, to assess where we are now in relation to where we\u2019ve been. But sometimes, that reflection isn\u2019t straightforward. It can feel tangled with regret, or a sense of disconnect, or even a surprising amount of peace. This isn\u2019t about changing the past, but understanding how our relationship *to* the past influences our present.\n\nImagine a person finding a box of old photos while cleaning out an attic. One photograph catches their eye: themself, much younger, with a friend they haven't spoken to in years. Looking at it, they don\u2019t immediately feel warmth or joy. Instead, a wave of sadness washes over them, followed by a sharp pang of guilt. They remember the circumstances of the falling out \u2013 a misunderstanding, harsh words exchanged, and then\u2026silence. It wasn\u2019t a dramatic event, but a slow drifting apart. The photograph isn't a happy memory; it\u2019s a reminder of something lost, of a connection severed. It highlights the gap between the person they were then and the person they are now.\n\nThis experience touches on a few key things. First, memories aren\u2019t static recordings. They\u2019re constantly being re-constructed each time we recall them, colored by our current emotions and perspectives. That photograph doesn't *contain* the sadness; the sadness is being created *in the present* as they view it. Second, unresolved emotional experiences tend to linger. That feeling of guilt isn\u2019t necessarily about the event itself anymore, but about the unfinished emotional business surrounding it. We often carry these unaddressed feelings as a kind of internal weight. Finally, and perhaps most importantly, acknowledging these difficult feelings is crucial. Trying to suppress or ignore them doesn\u2019t make them disappear; it often just makes them more potent. The photograph provides an opportunity to acknowledge that something happened, that feelings exist, and that those feelings are valid, regardless of how long ago the event occurred. It's not about assigning blame, but recognizing the emotional impact.\n\nLet's try a small exercise. Think of an object \u2013 it could be a photograph like in our story, a piece of clothing, a souvenir \u2013 something that evokes a memory with some emotional complexity. It doesn\u2019t have to be overwhelmingly negative, just\u2026layered. Take a few moments to simply observe this object without judgment. Notice what feelings arise. Where do you feel them in your body? Don\u2019t try to analyze or fix anything. Just *observe*. Then, silently acknowledge those feelings with a simple phrase like: \u201cI notice sadness,\u201d or \u201cI notice regret,\u201d or \u201cI notice a sense of longing.\u201d You\u2019re not trying to solve anything; you\u2019re simply acknowledging the present experience of remembering. Repeat this acknowledgment a few times. Finally, gently shift your focus back to the present moment \u2013 to your breath, or the sounds around you. This isn't about erasing the past, but creating space for your current experience alongside it. This is about building a more compassionate relationship with your own emotional landscape. It's okay for memories to be complex; it's okay to feel multiple things at once.\n\nRemember, revisiting the past isn't about dwelling on what *was*, but understanding how it shapes who you are *now*. It\u2019s about acknowledging the full spectrum of human experience, including the uncomfortable parts. And that acknowledgment can be surprisingly freeing.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-29.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-09-29T09:30:37.440095+00:00",
+  "local_sha256": "d89207a9bb7fd3fd68fef809a4b1c377bbcbd354f529cbc7dd2d284a9b4a316b",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-09-29T09:30:44.201899+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2159373,
+    "feed_size": 251707,
+    "local_sha256": "d89207a9bb7fd3fd68fef809a4b1c377bbcbd354f529cbc7dd2d284a9b4a316b",
+    "public_sha256": "d89207a9bb7fd3fd68fef809a4b1c377bbcbd354f529cbc7dd2d284a9b4a316b",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-09-29.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "d89207a9bb7fd3fd68fef809a4b1c377bbcbd354f529cbc7dd2d284a9b4a316b",
+    "public_sha256": "d89207a9bb7fd3fd68fef809a4b1c377bbcbd354f529cbc7dd2d284a9b4a316b",
+    "byte_identity": "VERIFIED"
+  }
+}
