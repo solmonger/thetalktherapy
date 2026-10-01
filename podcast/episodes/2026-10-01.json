@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 That feeling of being pulled in multiple directions, the sense of having...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-01.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-01.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 245,
+  "size_bytes": 2354901,
+  "created_at": "2026-10-01T09:30:36.963988+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-01T09:30:47.641255+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-01.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 That feeling of being pulled in multiple directions, the sense of having...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 That feeling of being pulled in\", \"content\": \"This is Talk Therapy. Today, we\\u2019re exploring that \", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp4/22149388/2026-10-01.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is Talk Therapy. Today, we\u2019re exploring that feeling of being pulled in multiple directions, the sense of having numerous projects or commitments started but few truly finished. It\u2019s a common experience, and often tied to how we manage our energy and expectations. We\u2019ll look at why this happens, what it might be costing us, and a small step you can take to address it. This isn\u2019t about productivity hacks, but about understanding the internal experience of incompleteness.\n\n--- Transcript ---\n\nTITLE: The Half-Finished Puzzle\n\nHave you ever started something, felt really good about it, and then\u2026 just stopped? Not because it was too hard, but because something else pulled your attention away?\n\nThis is Talk Therapy. Today, we\u2019re exploring that feeling of being pulled in multiple directions, the sense of having numerous projects or commitments started but few truly finished. It\u2019s a common experience, and often tied to how we manage our energy and expectations. We\u2019ll look at why this happens, what it might be costing us, and a small step you can take to address it. This isn\u2019t about productivity hacks, but about understanding the internal experience of incompleteness.\n\nImagine someone who decides to renovate a room in their house. They start with enthusiasm, stripping wallpaper, priming walls. Then a work project demands extra hours. Simultaneously, a friend needs support with a personal issue. The renovation gets paused. A few weeks later, they begin learning a new skill, like coding. That feels good for a while, but then family commitments increase. The room remains half-painted, the coding course is abandoned mid-way through. This person isn't lazy or incapable; they\u2019re simply responding to the demands of life. But they\u2019re left with a persistent feeling of things left undone, a subtle background hum of dissatisfaction. This isn\u2019t necessarily about the tasks themselves, but about the emotional weight of those incomplete beginnings.\n\nOne reason this happens is what\u2019s often called \u201cinitiation bias.\u201d We get a dopamine rush from *starting* things. The initial excitement feels good, and our brains sometimes mistake that feeling for actual progress. We enjoy the idea of the finished product, and that's enough to get us going, but not necessarily enough to see it through. It's easy to overestimate our available time and energy in the future. We think, \u201cI\u2019ll have plenty of time next week,\u201d or \u201cI can easily juggle all of this.\u201d This often leads to overcommitment.\n\nAnother factor is the fear of imperfection. Sometimes we stop not because we\u2019re overwhelmed, but because we get stuck on details, worried about not doing something *perfectly*. That fear can be paralyzing. It's easier to abandon a project than to risk producing something that doesn't meet our internal standards. \n\nFinally, consider the role of shifting priorities. Life changes. What seemed important last month might feel less so today. That\u2019s natural. But failing to acknowledge that shift \u2013 and adjust our commitments accordingly \u2013 can leave us feeling scattered and unfulfilled. It\u2019s not about failing to follow through on a past decision; it\u2019s about recognizing that our present needs and values may be different.\n\nLet's try a small exercise. Take a moment to list three things you\u2019ve started but haven\u2019t finished. They can be anything \u2013 a book you began reading, a project at work, a home repair. Don't judge yourself for having this list; it\u2019s simply an observation. \n\nNow, for each item, ask yourself two questions: First, \u201cIs this still something I genuinely *want* to complete?\u201d Be honest. If the answer is no, that's okay. It might be time to consciously let it go. There\u2019s no shame in recognizing that a project no longer aligns with your goals or interests. Second, if you *do* want to finish it, ask \u201cWhat is the very next, smallest step I can take?\u201d Not the whole project, just the next action. For example, instead of \u201cfinish painting the room,\u201d it might be \u201cgather the painting supplies.\u201d \n\nWrite down that single, small step next to each item on your list. The goal isn't to immediately complete everything, but to break down the overwhelm and identify a manageable starting point for the things that still matter to you. Consciously choosing to let go of others is equally important.\n\nRemember, having unfinished projects doesn't mean you're failing; it means you're human. It's about recognizing the patterns that lead to this feeling and making small adjustments to align your actions with your values and energy. That\u2019s all for this episode of Talk Therapy.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-01.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-01T09:30:47.696007+00:00",
+  "local_sha256": "53cbef33d34d158da24700f0055c0ee1b4aad44bf19a774a950f6ce2431d4617",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-01T09:30:57.231012+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2354901,
+    "feed_size": 257618,
+    "local_sha256": "53cbef33d34d158da24700f0055c0ee1b4aad44bf19a774a950f6ce2431d4617",
+    "public_sha256": "53cbef33d34d158da24700f0055c0ee1b4aad44bf19a774a950f6ce2431d4617",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-01.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "53cbef33d34d158da24700f0055c0ee1b4aad44bf19a774a950f6ce2431d4617",
+    "public_sha256": "53cbef33d34d158da24700f0055c0ee1b4aad44bf19a774a950f6ce2431d4617",
+    "byte_identity": "VERIFIED"
+  }
+}
