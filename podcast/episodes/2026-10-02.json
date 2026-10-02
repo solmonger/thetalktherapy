@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Static on the Radio",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-02.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-02.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 264,
+  "size_bytes": 2520333,
+  "created_at": "2026-10-02T09:30:37.172075+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-02T09:30:44.407150+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-02.mp3 (2.4 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Static on the Radio\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Static on the Radio\", \"content\": \"Today, we\\u2019ll explore the experience of disconnecti\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp5/22149388/2026-10-02.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019ll explore the experience of disconnection in relationships. It\u2019s a surprisingly common feeling, and often arises not from large conflicts, but from subtle shifts in how we communicate \u2013 or *don\u2019t* communicate. It's about recognizing when a sense of distance creeps in, and understanding what might be contributing to it. This isn't about blame, but about awareness and small adjustments.\n\n--- Transcript ---\n\nTITLE: The Static on the Radio\n\nHave you ever been trying to connect with someone, but it feels\u2026fuzzy? Like there\u2019s static on the line, even when you\u2019re face to face?\n\nToday, we\u2019ll explore the experience of disconnection in relationships. It\u2019s a surprisingly common feeling, and often arises not from large conflicts, but from subtle shifts in how we communicate \u2013 or *don\u2019t* communicate. It's about recognizing when a sense of distance creeps in, and understanding what might be contributing to it. This isn't about blame, but about awareness and small adjustments.\n\nImagine a couple. They\u2019ve been together for several years. Initially, evenings were filled with conversation \u2013 sharing details about their days, future plans, even silly observations. Recently, though, those conversations have dwindled. They might sit side-by-side watching television, or each scroll through their phones. When one attempts to initiate a discussion, it feels\u2026flat. The responses are minimal, often one-word answers. There isn\u2019t an argument, no overt negativity, just a noticeable lack of engagement. One person begins to feel unseen, unheard. The other might not even realize the shift is happening, or may feel overwhelmed and simply retreating into silence. It\u2019s not necessarily a sign of trouble; it\u2019s a signal that something in the communication pattern has changed.\n\nOne key aspect of connection is *mutual curiosity*. Over time, it\u2019s easy to make assumptions about the people we\u2019re close to. We think we know their thoughts, their feelings, their routines. This can lead us to stop *actively* listening, and instead, start listening for confirmation of our existing beliefs. When we stop being curious, we miss opportunities to learn and grow *with* the other person. They are constantly evolving, and our understanding of them needs to evolve too.\n\nAnother factor is what\u2019s often called *emotional shorthand*. Early in a relationship, we often explain things in detail. As time goes on, we develop shortcuts \u2013 inside jokes, shared experiences that allow us to communicate with less explanation. While this can be efficient, it can also exclude the other person from your internal world if you haven\u2019t maintained the underlying connection. It's easy for those shortcuts to become barriers if you don't regularly check in with each other.\n\nFinally, consider the impact of *unacknowledged small stresses*. Life is full of minor frustrations \u2013 a difficult day at work, a frustrating commute, a disagreement with a colleague. These small stresses can accumulate and create emotional fatigue. When someone is emotionally depleted, they may have less capacity for connection, even with those they care about most. It doesn\u2019t mean they care less; it simply means their resources are temporarily limited.\n\nLet's try a simple exercise called \u201cThree Genuine Questions.\u201d The next time you\u2019re interacting with someone you feel disconnected from \u2013 a partner, a friend, a family member \u2013 consciously ask three questions that go beyond surface-level pleasantries. Not \u201cHow was your day?\u201d but something more open-ended and specific. For example: \u201cWhat was one unexpected moment you experienced today?\u201d or \u201cWhat\u2019s something you\u2019re currently learning about?\u201d or \u201cIf you could wave a magic wand and change one small thing about your week so far, what would it be?\u201d \n\nThe key is genuine curiosity. Listen actively to the response, without interrupting or formulating your own answer while they're speaking. Resist the urge to offer solutions or advice unless specifically asked. Just listen and try to understand their perspective. After they answer each question, briefly reflect back what you heard to ensure you understood correctly \u2013 \u201cSo it sounds like you felt frustrated when\u2026\u201d This practice isn\u2019t about fixing anything; it\u2019s about re-establishing a sense of connection through active listening and demonstrated interest. It's a small shift that can create space for more meaningful interaction. Start small; even three questions can make a difference.\n\nDisconnection is a natural part of relationships. Recognizing the subtle signs and proactively addressing them with small acts of curiosity and engagement can help clear the static and rebuild those vital connections. Remember, consistent effort towards understanding is often more impactful than grand gestures.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-02.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-02T09:30:44.482682+00:00",
+  "local_sha256": "83b16599049c74f76e3fc9801e0950b49bfdceac10b5cea57f0644159d6172e5",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-02T09:30:54.736128+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2520333,
+    "feed_size": 263386,
+    "local_sha256": "83b16599049c74f76e3fc9801e0950b49bfdceac10b5cea57f0644159d6172e5",
+    "public_sha256": "83b16599049c74f76e3fc9801e0950b49bfdceac10b5cea57f0644159d6172e5",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-02.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "83b16599049c74f76e3fc9801e0950b49bfdceac10b5cea57f0644159d6172e5",
+    "public_sha256": "83b16599049c74f76e3fc9801e0950b49bfdceac10b5cea57f0644159d6172e5",
+    "byte_identity": "VERIFIED"
+  }
+}
