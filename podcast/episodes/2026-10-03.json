@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Forgotten Invitation",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-03.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-03.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 252,
+  "size_bytes": 2408277,
+  "created_at": "2026-10-03T09:30:27.776347+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-03T09:30:34.559148+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-03.mp3 (2.3 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Forgotten Invitation\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Forgotten Invitation\", \"content\": \"Today, we\\u2019ll explore that sensation \\u2013 the sting of\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-10-03.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today, we\u2019ll explore that sensation \u2013 the sting of not being included, not being thought of, and how it impacts our internal world. It\u2019s less about deliberate rejection and more about the subtle signals we pick up when our expectations about connection aren\u2019t met. This isn\u2019t about assigning blame; it\u2019s about understanding the emotional landscape of feeling overlooked and what we can do with that awareness.\n\n--- Transcript ---\n\nTITLE: The Forgotten Invitation\n\nHave you ever felt\u2026left out, even when no one actively excluded you? It\u2019s a surprisingly common feeling.\n\nToday, we\u2019ll explore that sensation \u2013 the sting of not being included, not being thought of, and how it impacts our internal world. It\u2019s less about deliberate rejection and more about the subtle signals we pick up when our expectations about connection aren\u2019t met. This isn\u2019t about assigning blame; it\u2019s about understanding the emotional landscape of feeling overlooked and what we can do with that awareness.\n\nImagine this: A friend is organizing a small get-together. It\u2019s not a huge party, just a casual evening with a few close companions. You see pictures online afterward \u2013 people laughing, enjoying themselves. You weren\u2019t upset when you first found out; you hadn't even considered asking to be included. But seeing those images stirs something up. It\u2019s not necessarily anger, more a quiet\u2026deflation. A sense of not being top-of-mind. It prompts questions like, \u201cWhy wasn\u2019t I thought of?\u201d or \u201cAm I less important?\u201d These questions aren't necessarily *true*, but the feeling is very real. This isn't about the event itself; it's about the implication of *not* being invited.\n\nThis experience touches on a core human need: the need for belonging. We are social creatures, wired to seek connection and validation from others. When we aren\u2019t included, our brains can interpret that as a signal of potential social isolation, triggering feelings of sadness or inadequacy. However, it's crucial to recognize that people's actions aren\u2019t always a direct reflection of their feelings towards us. There are countless reasons why someone might not extend an invitation: limited space, specific dynamics within the group, simply not realizing you'd be interested. It rarely means you\u2019re disliked or unimportant.\n\nAnother important aspect is our own expectations. Often, we operate with unspoken assumptions about who \u201cshould\u201d be included in certain situations. These assumptions are shaped by past experiences, cultural norms, and our individual attachment styles. When reality doesn\u2019t align with these expectations, it creates a discrepancy that leads to emotional discomfort. Recognizing these unspoken rules we create for ourselves is the first step to managing our reactions.\n\nFinally, consider the role of communication. A lack of invitation isn't necessarily a conscious omission, but it also doesn\u2019t mean your feelings are invalid. It\u2019s important to distinguish between being deliberately excluded and simply not being considered. The former feels personal and hurtful; the latter is more likely a matter of oversight or differing social circles.\n\nLet\u2019s try a quick exercise to process these feelings. It\u2019s called \u201cThe Thought Record.\u201d Grab a piece of paper or open a note on your phone. Divide the page into three columns: \u201cSituation,\u201d \u201cThoughts,\u201d and \u201cAlternative Perspectives.\u201d In the \u201cSituation\u201d column, briefly describe the event that triggered your feelings of being left out \u2013 like the gathering from our example earlier. In the \u201cThoughts\u201d column, write down all the thoughts that came up for you: \u201cThey don't like me,\u201d \u201cI'm not important,\u201d \u201cI should have known better.\u201d Now, in the \u201cAlternative Perspectives\u201d column, challenge those thoughts. Ask yourself: Is there another explanation for what happened? What evidence supports my initial thought? What evidence contradicts it? Could their actions be about them, not me? For instance, you might write: \u201cMaybe they were keeping it small and didn\u2019t think to invite everyone.\u201d or \"Perhaps they assumed I had other plans.\u201d This isn't about dismissing your feelings; it's about broadening your perspective and recognizing that there are often multiple interpretations of events. Repeating this exercise can help to decouple the event from your emotional reaction, creating space for more balanced thinking.\n\nFeeling overlooked is a universal experience. It's a reminder that while connection is vital, our sense of worth shouldn't be contingent on external validation. By understanding the dynamics at play and practicing self-compassion, we can navigate these moments with greater emotional resilience.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-03.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-03T09:30:34.631679+00:00",
+  "local_sha256": "0d9ee193edb351423a1f71fec071ec654f4df4330a71175ed087a86bb1746904",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-03T09:30:44.494634+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2408277,
+    "feed_size": 268449,
+    "local_sha256": "0d9ee193edb351423a1f71fec071ec654f4df4330a71175ed087a86bb1746904",
+    "public_sha256": "0d9ee193edb351423a1f71fec071ec654f4df4330a71175ed087a86bb1746904",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-03.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "0d9ee193edb351423a1f71fec071ec654f4df4330a71175ed087a86bb1746904",
+    "public_sha256": "0d9ee193edb351423a1f71fec071ec654f4df4330a71175ed087a86bb1746904",
+    "byte_identity": "VERIFIED"
+  }
+}
