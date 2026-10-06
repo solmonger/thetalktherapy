@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The weight of \u201cshould\u201d and how it impacts our choices and sense of self",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-06.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-06.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 255,
+  "size_bytes": 2445021,
+  "created_at": "2026-10-06T09:30:31.475021+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-06T09:30:37.441981+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-06.mp3 (2.3 MB)\n  Title: The Talk Therapy \u2014 The weight of \u201cshould\u201d and how it impacts our choices and sense of self\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The weight of \\u201cshould\\u201d and how \", \"content\": \"This is a space to explore the everyday experience\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp2/22149388/2026-10-06.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is a space to explore the everyday experiences that shape our emotional lives. We often focus on big events, but it\u2019s the smaller, consistent pressures \u2013 the things we tell ourselves we *should* do \u2013 that can quietly erode our well-being. Today, we'll be looking at the weight of \u201cshould\u201d and how it impacts our choices and sense of self. It\u2019s a common experience, and understanding it can be a step towards living a more intentional life.\n\n--- Transcript ---\n\nTITLE: The Weight of \u201cShould\u201d\n\nHave you ever felt\u2026stuck? Like you\u2019re doing something not because you *want* to, but because you feel you *have* to?\n\nThis is a space to explore the everyday experiences that shape our emotional lives. We often focus on big events, but it\u2019s the smaller, consistent pressures \u2013 the things we tell ourselves we *should* do \u2013 that can quietly erode our well-being. Today, we'll be looking at the weight of \u201cshould\u201d and how it impacts our choices and sense of self. It\u2019s a common experience, and understanding it can be a step towards living a more intentional life.\n\nImagine someone who consistently volunteers for extra tasks at work. They're capable, reliable, and always willing to help. From the outside, it looks admirable. But internally, they\u2019re feeling increasingly overwhelmed. They find themselves working late, skipping lunch breaks, and feeling resentful, even though they initially offered their help willingly. When a friend asks how they are, they simply say \u201cbusy.\u201d They believe they *should* be the one to take on these responsibilities, that it reflects positively on their work ethic and commitment. But this constant striving to meet an internal \u201cshould\u201d is leaving them depleted and disconnected from what they genuinely enjoy. This isn\u2019t about the tasks themselves; it's about the unspoken expectation driving the behavior.\n\nThe \u201cshoulds\u201d in our lives often originate from external sources \u2013 our upbringing, societal expectations, or the perceived needs of others. As children, we\u2019re frequently told what we *should* like, *should* be good at, or *should* aspire to be. These messages become ingrained, forming a kind of internal script that dictates our choices long after we\u2019ve left the original context. The problem isn't necessarily with the things we *should* do; it\u2019s the lack of conscious evaluation. We operate on autopilot, driven by obligation rather than desire.\n\nThis can manifest in relationships too. Perhaps someone believes they *should* always agree with their partner to avoid conflict. Or they *should* prioritize their partner's needs above their own to demonstrate love. While compromise and consideration are vital in any relationship, consistently suppressing your own feelings or needs to meet an imagined expectation creates imbalance and ultimately breeds resentment. \n\nA key insight is recognizing that \u201cshould\u201d statements often mask underlying fears \u2013 fear of judgment, fear of failure, or fear of disappointing others. It\u2019s a way of trying to control outcomes and avoid vulnerability. Another important point is that \u201cshould\u201d often implies a rigid standard. Life rarely fits neatly into boxes of \u201cright\u201d and \u201cwrong,\u201d and holding ourselves to inflexible rules leads to unnecessary stress and self-criticism.\n\nLet\u2019s try a small exercise. Take a moment to think about three things you currently feel you *should* be doing. Write them down if it helps. Now, for each \u201cshould\u201d statement, ask yourself: Where did this \u201cshould\u201d come from? Is it truly aligned with my values and priorities? And what would happen if I *didn't* do it? Really consider the consequences\u2014often they are far less dire than we imagine.\n\nThis isn\u2019t about abandoning all responsibility or dismissing important commitments. It\u2019s about creating space for conscious choice. If you decide you still want to do something despite the \u201cshould,\u201d that\u2019s perfectly valid. But do it from a place of intentionality, not obligation. If you realize a particular \u201cshould\u201d is draining your energy or compromising your well-being, consider gently releasing it. Perhaps you can renegotiate expectations with others, or simply give yourself permission to prioritize your own needs. Start small. Choose one \u201cshould\u201d to question this week and see how it feels to let go of that weight. It's about shifting from a life dictated by \"should\" to one guided by \"want to.\"\n\nAcknowledging the weight of \u201cshould\u201d is the first step toward reclaiming agency over your own life. It's a continuous process of self-reflection and course correction. Remember, you have the right to define what matters most to *you*.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-06.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-06T09:30:37.512972+00:00",
+  "local_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-06T09:30:47.013652+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2445021,
+    "feed_size": 284310,
+    "local_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "public_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-06.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "public_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "byte_identity": "VERIFIED"
+  }
+}
