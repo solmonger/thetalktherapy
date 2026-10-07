@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy - 2026-10-07",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-07.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-06.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 255,
+  "size_bytes": 2445021,
+  "created_at": "2026-10-07T09:30:36.574175+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-07T09:30:46.772452+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-07.mp3 (2.3 MB)\n  Title: The Talk Therapy - 2026-10-07\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy - 2026-10-07\", \"content\": \"A daily 5-minute wellness reflection from The Talk\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp3/22149388/2026-10-07.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "A daily 5-minute wellness reflection from The Talk Therapy.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-07.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-07T09:30:46.983953+00:00",
+  "local_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-07T09:31:02.816269+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2445021,
+    "feed_size": 275586,
+    "local_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "public_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-07.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "public_sha256": "4b90d37fe780c8edca5d5c0994f36d6824d3454f60d2508d202af23690e457ae",
+    "byte_identity": "VERIFIED"
+  }
+}
