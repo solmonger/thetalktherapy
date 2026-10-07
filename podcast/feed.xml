@@ -2,59 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Talk Therapy Podcast</title>
-    <description>This is a space to explore the everyday experiences that shape our emotional lives. We often focus on big events, but it’s the smaller, consistent pressures – the things we tell ourselves we *should* do – that can quietly erode our well-being. Today, we'll be looking at the weight of “should” and how it impacts our choices and sense of self. It’s a common experience, and understanding it can be a step towards living a more intentional life.
-
---- Transcript ---
-
-TITLE: The Weight of “Should”
-
-Have you ever felt…stuck? Like you’re doing something not because you *want* to, but because you feel you *have* to?
-
-This is a space to explore the everyday experiences that shape our emotional lives. We often focus on big events, but it’s the smaller, consistent pressures – the things we tell ourselves we *should* do – that can quietly erode our well-being. Today, we'll be looking at the weight of “should” and how it impacts our choices and sense of self. It’s a common experience, and understanding it can be a step towards living a more intentional life.
-
-Imagine someone who consistently volunteers for extra tasks at work. They're capable, reliable, and always willing to help. From the outside, it looks admirable. But internally, they’re feeling increasingly overwhelmed. They find themselves working late, skipping lunch breaks, and feeling resentful, even though they initially offered their help willingly. When a friend asks how they are, they simply say “busy.” They believe they *should* be the one to take on these responsibilities, that it reflects positively on their work ethic and commitment. But this constant striving to meet an internal “should” is leaving them depleted and disconnected from what they genuinely enjoy. This isn’t about the tasks themselves; it's about the unspoken expectation driving the behavior.
-
-The “shoulds” in our lives often originate from external sources – our upbringing, societal expectations, or the perceived needs of others. As children, we’re frequently told what we *should* like, *should* be good at, or *should* aspire to be. These messages become ingrained, forming a kind of internal script that dictates our choices long after we’ve left the original context. The problem isn't necessarily with the things we *should* do; it’s the lack of conscious evaluation. We operate on autopilot, driven by obligation rather than desire.
-
-This can manifest in relationships too. Perhaps someone believes they *should* always agree with their partner to avoid conflict. Or they *should* prioritize their partner's needs above their own to demonstrate love. While compromise and consideration are vital in any relationship, consistently suppressing your own feelings or needs to meet an imagined expectation creates imbalance and ultimately breeds resentment. 
-
-A key insight is recognizing that “should” statements often mask underlying fears – fear of judgment, fear of failure, or fear of disappointing others. It’s a way of trying to control outcomes and avoid vulnerability. Another important point is that “should” often implies a rigid standard. Life rarely fits neatly into boxes of “right” and “wrong,” and holding ourselves to inflexible rules leads to unnecessary stress and self-criticism.
-
-Let’s try a small exercise. Take a moment to think about three things you currently feel you *should* be doing. Write them down if it helps. Now, for each “should” statement, ask yourself: Where did this “should” come from? Is it truly aligned with my values and priorities? And what would happen if I *didn't* do it? Really consider the consequences—often they are far less dire than we imagine.
-
-This isn’t about abandoning all responsibility or dismissing important commitments. It’s about creating space for conscious choice. If you decide you still want to do something despite the “should,” that’s perfectly valid. But do it from a place of intentionality, not obligation. If you realize a particular “should” is draining your energy or compromising your well-being, consider gently releasing it. Perhaps you can renegotiate expectations with others, or simply give yourself permission to prioritize your own needs. Start small. Choose one “should” to question this week and see how it feels to let go of that weight. It's about shifting from a life dictated by "should" to one guided by "want to."
-
-Acknowledging the weight of “should” is the first step toward reclaiming agency over your own life. It's a continuous process of self-reflection and course correction. Remember, you have the right to define what matters most to *you*.</description>
+    <description>A daily 5-minute wellness reflection from The Talk Therapy.</description>
     <language>en</language>
     <link>https://raw.githubusercontent.com/solmonger/thetalktherapy/main</link>
     <generator>OpenClaw podcast-publish.py</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 09:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:30:46 GMT</lastBuildDate>
     <itunes:author>The Talk Therapy</itunes:author>
-    <itunes:summary>This is a space to explore the everyday experiences that shape our emotional lives. We often focus on big events, but it’s the smaller, consistent pressures – the things we tell ourselves we *should* do – that can quietly erode our well-being. Today, we'll be looking at the weight of “should” and how it impacts our choices and sense of self. It’s a common experience, and understanding it can be a step towards living a more intentional life.
-
---- Transcript ---
-
-TITLE: The Weight of “Should”
-
-Have you ever felt…stuck? Like you’re doing something not because you *want* to, but because you feel you *have* to?
-
-This is a space to explore the everyday experiences that shape our emotional lives. We often focus on big events, but it’s the smaller, consistent pressures – the things we tell ourselves we *should* do – that can quietly erode our well-being. Today, we'll be looking at the weight of “should” and how it impacts our choices and sense of self. It’s a common experience, and understanding it can be a step towards living a more intentional life.
-
-Imagine someone who consistently volunteers for extra tasks at work. They're capable, reliable, and always willing to help. From the outside, it looks admirable. But internally, they’re feeling increasingly overwhelmed. They find themselves working late, skipping lunch breaks, and feeling resentful, even though they initially offered their help willingly. When a friend asks how they are, they simply say “busy.” They believe they *should* be the one to take on these responsibilities, that it reflects positively on their work ethic and commitment. But this constant striving to meet an internal “should” is leaving them depleted and disconnected from what they genuinely enjoy. This isn’t about the tasks themselves; it's about the unspoken expectation driving the behavior.
-
-The “shoulds” in our lives often originate from external sources – our upbringing, societal expectations, or the perceived needs of others. As children, we’re frequently told what we *should* like, *should* be good at, or *should* aspire to be. These messages become ingrained, forming a kind of internal script that dictates our choices long after we’ve left the original context. The problem isn't necessarily with the things we *should* do; it’s the lack of conscious evaluation. We operate on autopilot, driven by obligation rather than desire.
-
-This can manifest in relationships too. Perhaps someone believes they *should* always agree with their partner to avoid conflict. Or they *should* prioritize their partner's needs above their own to demonstrate love. While compromise and consideration are vital in any relationship, consistently suppressing your own feelings or needs to meet an imagined expectation creates imbalance and ultimately breeds resentment. 
-
-A key insight is recognizing that “should” statements often mask underlying fears – fear of judgment, fear of failure, or fear of disappointing others. It’s a way of trying to control outcomes and avoid vulnerability. Another important point is that “should” often implies a rigid standard. Life rarely fits neatly into boxes of “right” and “wrong,” and holding ourselves to inflexible rules leads to unnecessary stress and self-criticism.
-
-Let’s try a small exercise. Take a moment to think about three things you currently feel you *should* be doing. Write them down if it helps. Now, for each “should” statement, ask yourself: Where did this “should” come from? Is it truly aligned with my values and priorities? And what would happen if I *didn't* do it? Really consider the consequences—often they are far less dire than we imagine.
-
-This isn’t about abandoning all responsibility or dismissing important commitments. It’s about creating space for conscious choice. If you decide you still want to do something despite the “should,” that’s perfectly valid. But do it from a place of intentionality, not obligation. If you realize a particular “should” is draining your energy or compromising your well-being, consider gently releasing it. Perhaps you can renegotiate expectations with others, or simply give yourself permission to prioritize your own needs. Start small. Choose one “should” to question this week and see how it feels to let go of that weight. It's about shifting from a life dictated by "should" to one guided by "want to."
-
-Acknowledging the weight of “should” is the first step toward reclaiming agency over your own life. It's a continuous process of self-reflection and course correction. Remember, you have the right to define what matters most to *you*.</itunes:summary>
+    <itunes:summary>A daily 5-minute wellness reflection from The Talk Therapy.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology" />
+    <item>
+      <title>The Talk Therapy - 2026-10-07</title>
+      <description>A daily 5-minute wellness reflection from The Talk Therapy.</description>
+      <pubDate>Wed, 07 Oct 2026 09:30:36 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-07.mp3" length="2445021" type="audio/mpeg" />
+      <itunes:duration>00:04:15</itunes:duration>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-07.mp3</guid>
+    </item>
     <item>
       <title>The Talk Therapy — The weight of “should” and how it impacts our choices and sense of self</title>
       <description>This is a space to explore the everyday experiences that shape our emotional lives. We often focus on big events, but it’s the smaller, consistent pressures – the things we tell ourselves we *should* do – that can quietly erode our well-being. Today, we'll be looking at the weight of “should” and how it impacts our choices and sense of self. It’s a common experience, and understanding it can be a step towards living a more intentional life.
