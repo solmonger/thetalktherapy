@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 TITLE: The Museum of You",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-10.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-10.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 227,
+  "size_bytes": 2178837,
+  "created_at": "2026-10-10T09:31:03.777680+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-10T09:31:16.248021+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-10.mp3 (2.1 MB)\n  Title: The Talk Therapy \u2014 TITLE: The Museum of You\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 TITLE: The Museum of You\", \"content\": \"We often talk about self-care as adding things *to\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-10-10.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "We often talk about self-care as adding things *to* our lives \u2013 new routines, new hobbies, new goals. But sometimes, the most important work involves making space by letting go. Letting go isn\u2019t about erasing the past, but about understanding its current role in our emotional landscape. It\u2019s about acknowledging how we change and allowing our inner world to evolve. It\u2019s a natural part of being human, and yet, it can feel surprisingly difficult.\n\n--- Transcript ---\n\nTITLE: The Museum of You\n\nHave you ever looked at something you used to love and felt\u2026nothing? Not sadness, not anger, just a quiet blankness? Today, we\u2019ll explore what that can mean.\n\nWe often talk about self-care as adding things *to* our lives \u2013 new routines, new hobbies, new goals. But sometimes, the most important work involves making space by letting go. Letting go isn\u2019t about erasing the past, but about understanding its current role in our emotional landscape. It\u2019s about acknowledging how we change and allowing our inner world to evolve. It\u2019s a natural part of being human, and yet, it can feel surprisingly difficult.\n\nImagine someone describing a collection of objects they\u2019ve kept over the years. A concert ticket from a memorable show, a small ceramic animal purchased on a trip, a handwritten card from someone they deeply cared for. Each item once held significant meaning, a direct link to a powerful emotion or experience. But now, looking at them, they feel\u2026distant. They recognize the *story* behind each item, but the emotional resonance is faded. They aren\u2019t sad the feelings aren\u2019t as strong; they just find themselves wondering why they\u2019ve held onto something that no longer quite fits. It\u2019s not about the object itself, but what it represents \u2013 a former version of themselves, a past relationship, a life stage that\u2019s passed.\n\nThis experience points to a few core ideas. First, our feelings are rarely static. They are responsive to our experiences and our growth. What felt vital at twenty might feel less so at forty. This isn\u2019t a failure of memory or a sign of coldness; it\u2019s simply how emotional processing works. We integrate experiences, and the intensity of those experiences naturally shifts over time.\n\nSecond, holding onto things \u2013 whether physical objects or emotional narratives \u2013 can sometimes prevent us from fully experiencing the present. The space occupied by these remnants of the past can subtly limit our capacity for new joys and connections. It's not about denying the past happened, but about ensuring it doesn't overshadow the present.\n\nThirdly, the discomfort we feel when an object or memory loses its charge isn't necessarily negative. It can signal that we've grown, that our needs and values have evolved. It's an invitation to reflect on how we've changed and what we want to prioritize moving forward. It\u2019s often less about *loss* and more about *transition*. We aren't losing the experience itself; we\u2019re transitioning to a new relationship with it.\n\nConsider this a small exercise in curating your internal museum. Think of something \u2013 an object, a photograph, a memory \u2013 that you hold onto but no longer evokes a strong emotional response. It doesn't have to be something painful; it can simply be something that feels\u2026neutral now. Spend five minutes writing about it. Not necessarily about *what* it is, but *how* it feels to hold onto something that feels distant. Ask yourself: What space does this occupy within me? What would it be like to gently release some of that space? What might become possible if I did? You don\u2019t have to physically discard anything or actively try to forget. The goal is simply to observe your relationship with this item or memory without judgment. Acknowledge its place in your history, and then consider if continuing to hold onto it serves your present self. You might find that simply acknowledging the shift is enough. You might also discover you want to let go \u2013 not because the past was bad, but because you\u2019re ready for something new.\n\nRemember, allowing yourself to evolve doesn't mean you're discarding important parts of yourself. It means you're making space for the person you are becoming. It\u2019s an act of self-compassion and a recognition of the ongoing story of your life.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-10.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-10T09:31:16.299968+00:00",
+  "local_sha256": "6ccc05987258487e08a09ef92028a3d31002d78f2c3544d727e9cb5b91d14df5",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-10T09:31:28.525116+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2178837,
+    "feed_size": 290097,
+    "local_sha256": "6ccc05987258487e08a09ef92028a3d31002d78f2c3544d727e9cb5b91d14df5",
+    "public_sha256": "6ccc05987258487e08a09ef92028a3d31002d78f2c3544d727e9cb5b91d14df5",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-10.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "6ccc05987258487e08a09ef92028a3d31002d78f2c3544d727e9cb5b91d14df5",
+    "public_sha256": "6ccc05987258487e08a09ef92028a3d31002d78f2c3544d727e9cb5b91d14df5",
+    "byte_identity": "VERIFIED"
+  }
+}
