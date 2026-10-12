@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 Those imbalances \u2013 the little wobbles that can throw us off, and how to...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-12.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-12.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 259,
+  "size_bytes": 2483445,
+  "created_at": "2026-10-12T09:30:33.171724+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-12T09:30:43.147876+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-12.mp3 (2.4 MB)\n  Title: The Talk Therapy \u2014 Those imbalances \u2013 the little wobbles that can throw us off, and how to...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 Those imbalances \\u2013 the little w\", \"content\": \"This is Talk Therapy. A space to consider the smal\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp1/22149388/2026-10-12.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is Talk Therapy. A space to consider the small, everyday moments that make up our inner lives. We often focus on big changes or dramatic events, but a lot of our emotional energy is spent navigating smaller imbalances. Today, we\u2019re going to talk about those imbalances \u2013 the little wobbles that can throw us off, and how to address them without needing a complete overhaul. It\u2019s about recognizing when something feels unstable and finding ways to steady things.\n\n--- Transcript ---\n\nTITLE: The Wobbly Table\n\n(Sound of a table wobbling, then being adjusted)\nSometimes, things just feel\u2026off balance.\n\nThis is Talk Therapy. A space to consider the small, everyday moments that make up our inner lives. We often focus on big changes or dramatic events, but a lot of our emotional energy is spent navigating smaller imbalances. Today, we\u2019re going to talk about those imbalances \u2013 the little wobbles that can throw us off, and how to address them without needing a complete overhaul. It\u2019s about recognizing when something feels unstable and finding ways to steady things.\n\nImagine someone is planning a dinner party. They\u2019ve spent hours on the menu, cleaned the house, and are really looking forward to it. But as guests arrive, they notice the dining table is wobbly. It\u2019s not about to collapse, but it\u2019s distracting. Every time someone sets down a glass, it feels precarious. They try to ignore it, but the wobble keeps drawing their attention. They\u2019re no longer fully present with their guests, constantly aware of this small imperfection. It\u2019s not a disaster, but it\u2019s definitely impacting their enjoyment of the evening. This feeling of a \u201cwobbly table\u201d can show up in many areas of life\u2014a relationship, a work project, even just your daily routine.\n\nThat feeling of something being \u201coff\u201d often signals an unmet need or an unaddressed expectation. It's rarely about the table itself; it's about what the wobble *represents*. Perhaps it represents a lack of control, or a fear of things falling apart. Maybe it highlights an unrealistic standard you've set for yourself \u2013 the dinner party *has* to be perfect. \n\nOne insight here is that discomfort isn't always a sign something is fundamentally wrong. It can be a signal that something needs adjusting. Trying to simply ignore the wobble rarely works. The feeling persists, and can even grow stronger over time. Similarly, ignoring small dissatisfactions in life tends to amplify them. \n\nAnother important point is recognizing the difference between a problem you can solve and a reality you need to accept. Sometimes, the table *is* wobbly, and there isn\u2019t a quick fix. Maybe you don\u2019t have the tools or the time to fix it right now. In those cases, learning to live *with* the wobble\u2014acknowledging it without letting it consume you\u2014is a valuable skill. This isn't resignation; it's acceptance. It frees up energy that would otherwise be spent fighting reality.\n\nFinally, consider what happens when we *overcorrect*. Sometimes, in an attempt to fix a wobble, we push too hard in one direction, creating a new imbalance. This can look like overcompensating in a relationship or taking on too much at work to prove competence. A gentle adjustment is usually more effective than a forceful one.\n\nLet's try a quick exercise. Think about one area of your life where you're experiencing that \"wobbly table\" feeling \u2013 something that's consistently causing low-level discomfort or distraction. It doesn\u2019t have to be huge. Now, take a few moments to answer these questions, either mentally or by writing them down:\n\nWhat specifically feels off-balance? Be as concrete as possible. Instead of \u201cmy relationship feels wrong,\u201d try \u201cI feel like I\u2019m doing most of the emotional labor in my relationship.\u201d\nWhat expectation might be contributing to this feeling? Is it something you expect from yourself, from someone else, or from the situation?\nIs this something I can realistically adjust? If so, what's one small step I could take today to address it? If not, can I practice accepting the current state without judgment?\n\nYou don't need to solve anything right now. The goal is simply to identify the wobble and explore your relationship to it. This exercise is about noticing and acknowledging \u2013 the first steps toward finding more stability. Remember, small adjustments can often make a big difference over time.\n\nThat\u2019s all for today\u2019s Talk Therapy. Recognizing and addressing those small imbalances \u2013 the wobbly tables in our lives \u2013 is an ongoing process. It requires self-awareness, compassion, and a willingness to make gentle adjustments. Until next time, be kind to yourself and remember that it\u2019s okay for things to feel a little off-kilter sometimes.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-12.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-12T09:30:43.555334+00:00",
+  "local_sha256": "fe0edeaf82e8ac8d201bc50e5984c942f5149511d345864054b28faa61869a45",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-12T09:30:55.959818+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2483445,
+    "feed_size": 305635,
+    "local_sha256": "fe0edeaf82e8ac8d201bc50e5984c942f5149511d345864054b28faa61869a45",
+    "public_sha256": "fe0edeaf82e8ac8d201bc50e5984c942f5149511d345864054b28faa61869a45",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-12.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "fe0edeaf82e8ac8d201bc50e5984c942f5149511d345864054b28faa61869a45",
+    "public_sha256": "fe0edeaf82e8ac8d201bc50e5984c942f5149511d345864054b28faa61869a45",
+    "byte_identity": "VERIFIED"
+  }
+}
