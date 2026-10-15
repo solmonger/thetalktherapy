@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The idea of a \u201cshared horizon\u201d in relationships \u2013 not just romantic ones,...",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-15.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-15.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 241,
+  "size_bytes": 2308269,
+  "created_at": "2026-10-15T09:30:22.639142+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-15T09:30:33.329823+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-15.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 The idea of a \u201cshared horizon\u201d in relationships \u2013 not just romantic ones,...\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The idea of a \\u201cshared horizon\\u201d \", \"content\": \"Today we\\u2019re exploring the idea of a \\u201cshared horizo\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp4/22149388/2026-10-15.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today we\u2019re exploring the idea of a \u201cshared horizon\u201d in relationships \u2013 not just romantic ones, but with family, friends, and colleagues too. This isn\u2019t about having identical interests or life goals. It's about a fundamental alignment in the *direction* you're both facing, even if the paths look different. When that sense of shared direction feels lost, it can lead to feelings of distance, frustration, and ultimately, disconnection.\n\n--- Transcript ---\n\nTITLE: The Shared Horizon\n\nHave you ever felt disconnected, even while physically close to someone? It\u2019s a surprisingly common experience.\n\nToday we\u2019re exploring the idea of a \u201cshared horizon\u201d in relationships \u2013 not just romantic ones, but with family, friends, and colleagues too. This isn\u2019t about having identical interests or life goals. It's about a fundamental alignment in the *direction* you're both facing, even if the paths look different. When that sense of shared direction feels lost, it can lead to feelings of distance, frustration, and ultimately, disconnection.\n\nImagine a friend telling you about their new hobby \u2013 competitive birdhouse building. You\u2019re genuinely happy for them, but you find yourself struggling to relate. Your own weekends are filled with completely different activities: hiking, reading, volunteering. You listen, offer encouragement, but internally you feel a gap widening. You start to wonder if you\u2019re growing apart. This isn't about birdhouses, of course. It\u2019s about feeling like your lives are diverging onto separate planes. You may find yourself less inclined to share your own experiences, fearing a similar lack of connection in return. It\u2019s a subtle shift, but a significant one.\n\nThis feeling often arises when we confuse *shared activities* with a *shared horizon*. Shared activities \u2013 the birdhouse building, the hiking, the movie nights \u2013 are important, but they aren't the foundation of a strong connection. The horizon is the bigger picture: the values, the principles, the overall sense of what matters. For example, two people might express their values differently. One might volunteer at an animal shelter, demonstrating compassion through direct action. Another might focus on a career in environmental law, addressing the root causes of animal suffering through systemic change. Different paths, but potentially the same horizon: a commitment to animal welfare. \n\nA disconnect emerges when those horizons drift apart. Perhaps one person prioritizes career advancement above all else, while another values work-life balance and personal fulfillment. These aren\u2019t necessarily *wrong* priorities, but if they\u2019re fundamentally incompatible, it can create ongoing tension. Another key insight is recognizing that horizons can evolve. What felt aligned in your twenties might not feel aligned in your forties. Life changes people; that's natural. The challenge isn't preventing change, but acknowledging it and proactively discussing how to navigate it together.\n\nLet's try a simple exercise called \u201cDirection Check.\u201d Find a quiet moment and think of someone with whom you feel this sense of distance. It doesn\u2019t need to be a major conflict; just a feeling of being slightly out of sync. Now, on a piece of paper, draw two circles that overlap slightly. In one circle, write down three things *you* consider most important in life right now \u2013 values, goals, aspirations. In the other circle, write down what you *believe* this other person considers most important. Be honest, but also try to be charitable in your assumptions. \n\nNow, look at the overlapping section. What\u2019s there? What common ground exists? Is it minimal? That\u2019s okay. The point isn\u2019t to force alignment, but to gain clarity. If the overlap is small, it doesn\u2019t automatically mean the relationship is doomed. It simply highlights the need for more intentional conversation and understanding. Initiate a conversation \u2013 not to change their perspective, but to genuinely understand theirs. Ask open-ended questions like: \u201cWhat are you most excited about these days?\u201d or \u201cWhat feels most meaningful to you right now?\u201d Listen actively, without interrupting or formulating your response.\n\nRemember, a shared horizon isn\u2019t about sameness; it\u2019s about mutual respect for each other\u2019s direction. It's about acknowledging that you're both looking toward something meaningful, even if the view is slightly different from where you stand. It requires ongoing effort and honest communication to maintain that sense of connection over time.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-15.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-15T09:30:33.399785+00:00",
+  "local_sha256": "46bf46cfe06f8b261a17337222069f75d6888e8e1bed7896f6d15c19718aa015",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-15T09:30:47.044241+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2308269,
+    "feed_size": 321374,
+    "local_sha256": "46bf46cfe06f8b261a17337222069f75d6888e8e1bed7896f6d15c19718aa015",
+    "public_sha256": "46bf46cfe06f8b261a17337222069f75d6888e8e1bed7896f6d15c19718aa015",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-15.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "46bf46cfe06f8b261a17337222069f75d6888e8e1bed7896f6d15c19718aa015",
+    "public_sha256": "46bf46cfe06f8b261a17337222069f75d6888e8e1bed7896f6d15c19718aa015",
+    "byte_identity": "VERIFIED"
+  }
+}
