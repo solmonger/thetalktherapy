@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 The small, everyday gaps that can grow between people",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-17.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-17.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 244,
+  "size_bytes": 2320725,
+  "created_at": "2026-10-17T09:30:17.249978+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-17T09:30:27.201760+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-17.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 The small, everyday gaps that can grow between people\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 The small, everyday gaps that c\", \"content\": \"Today we\\u2019re talking about the small, everyday gaps\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp6/22149388/2026-10-17.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "Today we\u2019re talking about the small, everyday gaps that can grow between people. These aren't dramatic conflicts or life-altering events. They're the quiet accumulations of unshared thoughts, unasked questions, and unspoken needs. These gaps are normal, inevitable even, in any relationship. But recognizing them is the first step toward bridging them. This is about understanding how connection erodes, not through big failures, but through small absences.\n\n--- Transcript ---\n\nTITLE: The Static Between Us\n\nHave you ever felt\u2026 disconnected, even while in the same room as someone? Like there\u2019s a subtle hum of static interfering with a clear connection?\n\nToday we\u2019re talking about the small, everyday gaps that can grow between people. These aren't dramatic conflicts or life-altering events. They're the quiet accumulations of unshared thoughts, unasked questions, and unspoken needs. These gaps are normal, inevitable even, in any relationship. But recognizing them is the first step toward bridging them. This is about understanding how connection erodes, not through big failures, but through small absences.\n\nImagine a couple. They\u2019ve been together for several years. They function well \u2013 bills are paid, chores are divided, life happens. But recently, one person has noticed a shift. It\u2019s not a fight, not a disagreement. It's more like\u2026 parallel play. They\u2019ll both be in the kitchen, one preparing dinner, the other scrolling on their phone. They might exchange logistical information \u2013 \u201cDid you remember to take the trash out?\u201d \u2013 but little else. There\u2019s no real sharing of their day, their worries, their small joys. A feeling starts to build: a sense of being alongside each other, but not *with* each other. This isn\u2019t necessarily a sign of anything \u2018wrong\u2019, but it *is* a signal that the usual flow of connection is being disrupted.\n\nOne key factor in these disconnects is what\u2019s often called \u201cassumptive worlds.\u201d We all operate from a set of assumptions about how the world works, what others think, and what they need. These assumptions are largely unconscious. We assume our partner understands our day was stressful because of a difficult meeting, without actually *saying* it was stressful. We assume they know we\u2019re feeling insecure about a work project because we\u2019ve been quiet. But assumptions are rarely perfect. They're built on our own internal experience, not necessarily on reality. \n\nAnother element is the gradual narrowing of shared experiences. Life changes \u2013 new jobs, different hobbies, evolving friend groups \u2013 can lead people to have fewer and fewer things to actively share. This isn\u2019t inherently bad; individual growth is important. But without intentional effort to create *new* shared experiences or to deeply explore individual ones with each other, those gaps can widen.\n\nFinally, consider the impact of \u201cemotional shorthand.\u201d After years together, couples often develop shortcuts in communication \u2013 inside jokes, knowing glances, unfinished sentences. While efficient, these shortcuts can sometimes prevent deeper exploration of feelings. It\u2019s easy to fall into patterns where you respond to the *surface* of what's being communicated, rather than actively seeking to understand the underlying emotion.\n\nHere's a small exercise you can try. It\u2019s called \u201cThe Three Questions.\u201d At some point today, with someone you regularly interact with \u2013 a partner, a friend, a family member \u2013 ask these three questions. Don\u2019t offer your own answers first; simply listen to theirs. \n\nFirst: \u201cWhat\u2019s one small thing that brought you joy today?\u201d It doesn't have to be grand; it could be a good cup of coffee or a sunny moment. Second: \u201cWhat\u2019s one thing that felt challenging today?\u201d Again, keep it relatively small \u2013 a frustrating email, a long line at the store. And third: \u201cIs there anything on your mind that you haven\u2019t shared with anyone yet?\u201d This one requires a bit more vulnerability, and it\u2019s okay if they say no. \n\nThe goal isn\u2019t to \u2018fix\u2019 anything or offer advice. The goal is to create space for genuine sharing and to actively listen without judgment or interruption. Notice how *different* their answers are from what you might assume. Notice how simply being asked these questions can shift the dynamic, even slightly. This isn\u2019t about solving problems; it\u2019s about rebuilding the signal through the static.\n\nThese small gaps in connection are part of being human. Recognizing them isn't about assigning blame; it's about creating awareness and choosing intentionality. Small moments of genuine sharing can make a significant difference over time.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-17.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-17T09:30:27.277345+00:00",
+  "local_sha256": "139726e8a54faf50b2f787cfd1134d8aeadd6a8e8eef03accbe5fcb208068757",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-17T09:30:39.850507+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2320725,
+    "feed_size": 332332,
+    "local_sha256": "139726e8a54faf50b2f787cfd1134d8aeadd6a8e8eef03accbe5fcb208068757",
+    "public_sha256": "139726e8a54faf50b2f787cfd1134d8aeadd6a8e8eef03accbe5fcb208068757",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-17.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "139726e8a54faf50b2f787cfd1134d8aeadd6a8e8eef03accbe5fcb208068757",
+    "public_sha256": "139726e8a54faf50b2f787cfd1134d8aeadd6a8e8eef03accbe5fcb208068757",
+    "byte_identity": "VERIFIED"
+  }
+}
