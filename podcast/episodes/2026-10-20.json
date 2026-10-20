@@ -1,0 +1,39 @@
+{
+  "title": "The Talk Therapy \u2014 (Sound of a pen scratching on paper, then stopping abruptly)",
+  "file": "/Users/operator/openclaw-infra/podcast/episodes/2026-10-20.mp3",
+  "narration": "/Users/operator/openclaw-infra/podcast/audio/2026-10-20.wav",
+  "music": "/Users/operator/.openclaw/podcast/music/background.mp3",
+  "music_volume": 0.15,
+  "duration_seconds": 241,
+  "size_bytes": 2303733,
+  "created_at": "2026-10-20T09:30:28.344878+00:00",
+  "upload_status": "static_published",
+  "blocked_reason": "podbean_storage_quota",
+  "blocked_at": "2026-10-20T09:30:38.579779+00:00",
+  "last_upload_error": "Uploading to Podbean:\n  File:  /Users/operator/openclaw-infra/podcast/episodes/2026-10-20.mp3 (2.2 MB)\n  Title: The Talk Therapy \u2014 (Sound of a pen scratching on paper, then stopping abruptly)\n  Draft: False\n  [1/4] Authenticating...\n  [2/4] Getting upload authorization...\n  [3/4] Uploading file...\n  [4/4] Creating episode...\n  Episode payload: {\"title\": \"The Talk Therapy \\u2014 (Sound of a pen scratching on p\", \"content\": \"This is Talk Therapy. A space to explore the every\", \"status\": \"publish\", \"type\": \"public\", \"media_key\": \"tmp2/22149388/2026-10-20.mp3\", \"content_type\": \"audio/mpeg\"}\n  Attempt 1 failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"No enough space to upload. Upgrade today to get unlimited space and much more features.\"}\n  Retrying with fresh token...\nERROR: Episode creation failed (HTTP 400): {\"error\":\"file_upload_failed\",\"error_description\":\"File upload failed, please try again later.\"}\n",
+  "description": "This is Talk Therapy. A space to explore the everyday complexities of being human. We often focus on direct communication, on voicing our needs and boundaries. But what about the thoughts and feelings that remain unspoken? The things we draft, rehearse, or simply hold onto? Today, we\u2019ll consider the impact of those unsent messages, and how acknowledging them can be a step toward understanding ourselves and our relationships.\n\n--- Transcript ---\n\nTITLE: The Unsent Letter\n\n(Sound of a pen scratching on paper, then stopping abruptly)\nSometimes, the things we *don\u2019t* say are just as powerful as the things we do.\n\nThis is Talk Therapy. A space to explore the everyday complexities of being human. We often focus on direct communication, on voicing our needs and boundaries. But what about the thoughts and feelings that remain unspoken? The things we draft, rehearse, or simply hold onto? Today, we\u2019ll consider the impact of those unsent messages, and how acknowledging them can be a step toward understanding ourselves and our relationships.\n\nImagine a scenario: A friend has repeatedly cancelled plans at the last minute. Each time, you\u2019ve politely accepted their explanation, offering understanding. But underneath, a feeling of disappointment and frustration is growing. You begin to write an email \u2013 a detailed account of how their cancellations affect you, how it makes you feel undervalued. You pour your thoughts onto the page, crafting the perfect response. But then\u2026 you hesitate. You reread it, edit it, then ultimately, delete it. The email remains unsent. It\u2019s a common experience. We all have these drafts, these internal monologues directed at others that never see the light of day.\n\nThe impulse to write an unsent letter \u2013 or to mentally rehearse a difficult conversation we never have \u2013 isn\u2019t necessarily a sign of avoidance, though it can be. Often, it\u2019s a crucial part of processing emotion. The act of articulating our feelings, even if only to ourselves, can provide clarity. It allows us to explore the nuances of our experience without the immediate pressure of reaction or defense from the other person. \n\nThis process can reveal what we truly need from a situation. Is it an apology? A change in behavior? Simply to be *heard*? When we don't voice these needs directly, they don't disappear. They can manifest in other ways: passive-aggressive behavior, resentment, or a gradual distancing from the relationship.\n\nAnother key point is that the unsent message often contains vulnerability. It's easier to craft a perfectly worded critique in private than to deliver it face-to-face, where we might feel exposed or fear damaging the connection. That vulnerability is important. Recognizing *what* feels vulnerable about expressing those feelings is a valuable insight in itself. It might point to past experiences or ingrained patterns of relating to others. Finally, understand that holding onto these unsent messages doesn\u2019t mean they are invalid. Your feelings are real and deserve attention, regardless of whether they are communicated outwardly.\n\nLet's try a small exercise. Think of one unsent message you\u2019re currently holding onto \u2013 something you\u2019ve drafted in your mind or perhaps even started to write but never sent. It doesn\u2019t have to be dramatic; it could be something relatively minor. Now, without rereading it or editing it, simply write it out again, from beginning to end. Don't focus on whether you *will* send it. The goal is not to deliver the message, but to fully express it.\n\nAs you write, notice what emotions arise. Are you feeling anger? Sadness? Fear? Simply observe those feelings without judgment. Once you\u2019ve finished writing, set the letter aside. You can keep it, or you can delete it \u2013 that's up to you. The important part is that you\u2019ve allowed yourself to fully articulate what was inside. \n\nAfterward, take a few moments to journal about *why* you didn't send the message originally. What were your fears? What were you hoping to achieve by writing it? This exercise isn't about finding solutions or resolving conflicts; it's about self-awareness and acknowledging your internal experience. It\u2019s about giving yourself permission to feel and express without the constraints of external expectations.\n\nSometimes, acknowledging the power of the unsent letter is enough. It's a reminder that our internal world is complex and deserving of attention. This has been Talk Therapy.",
+  "static_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-20.mp3",
+  "rss_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+  "static_staged_at": "2026-10-20T09:30:38.644899+00:00",
+  "local_sha256": "a7d1ac0c14a142ecb866e8970cb08acd834999f2cabce5eff1969bc9006ea1bd",
+  "byte_identity": "VERIFIED",
+  "static_published_at": "2026-10-20T09:30:51.469572+00:00",
+  "public_verification": {
+    "ok": true,
+    "episode_status": 200,
+    "feed_status": 200,
+    "episode_size": 2303733,
+    "feed_size": 347754,
+    "local_sha256": "a7d1ac0c14a142ecb866e8970cb08acd834999f2cabce5eff1969bc9006ea1bd",
+    "public_sha256": "a7d1ac0c14a142ecb866e8970cb08acd834999f2cabce5eff1969bc9006ea1bd",
+    "byte_identity": "VERIFIED"
+  },
+  "publication_receipt": {
+    "provider": "static",
+    "episode_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/episodes/2026-10-20.mp3",
+    "feed_url": "https://raw.githubusercontent.com/solmonger/thetalktherapy/main/podcast/feed.xml",
+    "local_sha256": "a7d1ac0c14a142ecb866e8970cb08acd834999f2cabce5eff1969bc9006ea1bd",
+    "public_sha256": "a7d1ac0c14a142ecb866e8970cb08acd834999f2cabce5eff1969bc9006ea1bd",
+    "byte_identity": "VERIFIED"
+  }
+}
